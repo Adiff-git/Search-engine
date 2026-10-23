@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.whoosh_index/
+.whoosh_index.lock
+.whoosh-build-*/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

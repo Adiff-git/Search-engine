@@ -1,0 +1,4469 @@
+{
+  "window_start_utc": "2026-10-05T20:03:19.170482+00:00",
+  "window_end_utc": "2026-10-06T20:03:19.170482+00:00",
+  "coverage": "Articles discovered in VnExpress tin-tuc-24h listing; all-site completeness not verified",
+  "interaction_formula": "likes on all unique roots/replies + number of unique replies",
+  "metrics_note": "Live snapshots, not a simultaneous snapshot; sort_by=like may change during pagination",
+  "articles": [
+    {
+      "article_id": 5129089,
+      "url": "https://vnexpress.net/5-thuc-pham-nguoi-tu-tuoi-40-nen-dung-thuong-xuyen-5129089.html",
+      "title": "5 thực phẩm người từ tuổi 40 nên dùng thường xuyên",
+      "published_at": "2026-10-06T20:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:03:37.398197+00:00"
+    },
+    {
+      "article_id": 5128562,
+      "url": "https://vnexpress.net/vi-sao-khong-an-do-ngot-van-mac-tieu-duong-thai-ky-5128562.html",
+      "title": "Vì sao không ăn đồ ngọt vẫn mắc tiểu đường thai kỳ?",
+      "published_at": "2026-10-06T18:01:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:03:40.955753+00:00"
+    },
+    {
+      "article_id": 5129127,
+      "url": "https://vnexpress.net/video-tam-chuyen-nau-ca-uon-cho-khach-bang-tieng-viet-gay-bao-tai-han-quoc-5129127.html",
+      "title": "Video tám chuyện nấu cá ươn cho khách bằng tiếng Việt 'gây bão' tại Hàn Quốc",
+      "published_at": "2026-10-06T17:59:09+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:03:44.703624+00:00"
+    },
+    {
+      "article_id": 5129210,
+      "url": "https://vnexpress.net/han-quoc-chua-hai-long-ve-loi-xin-loi-cua-ukraine-5129210.html",
+      "title": "Hàn Quốc chưa hài lòng về 'lời xin lỗi' của Ukraine",
+      "published_at": "2026-10-06T17:34:28+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:03:48.633453+00:00"
+    },
+    {
+      "article_id": 5129115,
+      "url": "https://vnexpress.net/cac-cong-ty-100-tuoi-cua-nhat-ban-bien-mat-voi-toc-do-ky-luc-5129115.html",
+      "title": "Các công ty 100 tuổi của Nhật Bản biến mất với tốc độ kỷ lục",
+      "published_at": "2026-10-06T17:05:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 3,
+      "comments_complete": true,
+      "interaction_score": 9,
+      "root_comment_count": 3,
+      "loaded_root_count": 3,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 9,
+      "partial_interaction_score": 9,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678727,
+          "parent_id": 64678727,
+          "content": "Người Việt chuộng hàng bãi Nhật có lẽ vì tâm lý “đồ Nhật bền”, trong khi giá lại dễ tiếp cận hơn hàng mới. Nhưng giờ còn bao nhiêu món thực sự đáng mua, hay đôi khi chúng ta đang mua cả thương hiệu và ký ức về chất lượng Nhật?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791309201,
+          "likes": 5,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678726,
+          "parent_id": 64678726,
+          "content": "Sharp, Toshiba, Sanyo, NEC... từng là những cái tên rất được yêu thích, giờ nhiều hãng đã bán mình, thu hẹp hoặc mất hẳn vị thế. Công nghệ không đứng yên, nhưng liệu chính sự chậm thay đổi mới là thứ khiến những “tượng đài” này đi xuống?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791309154,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678716,
+          "parent_id": 64678716,
+          "content": "Doanh nghiệp tồn tại cả trăm năm vẫn có thể biến mất nếu không thích nghi với thời đại. Có lẽ bài toán khó nhất không phải giữ truyền thống, mà là biết thay đổi đúng lúc.",
+          "author": "Toco Toco",
+          "creation_time": 1791308679,
+          "likes": 2,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:03:52.467813+00:00"
+    },
+    {
+      "article_id": 5129107,
+      "url": "https://vnexpress.net/4-thoi-quen-buoi-toi-giup-duong-ruot-khoe-5129107.html",
+      "title": "4 thói quen buổi tối giúp đường ruột khỏe",
+      "published_at": "2026-10-06T17:03:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:03:55.963576+00:00"
+    },
+    {
+      "article_id": 5129232,
+      "url": "https://vnexpress.net/chan-cua-muu-sinh-5129232.html",
+      "title": "Chặn cửa mưu sinh",
+      "published_at": "2026-10-06T17:00:01+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:03:59.075046+00:00"
+    },
+    {
+      "article_id": 5129229,
+      "url": "https://vnexpress.net/crush-cua-toi-la-dong-nghiep-cung-la-thay-toi-5129229.html",
+      "title": "Crush của tôi là đồng nghiệp, cũng là thầy tôi",
+      "published_at": "2026-10-06T17:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 5,
+      "comments_complete": true,
+      "interaction_score": 6,
+      "root_comment_count": 5,
+      "loaded_root_count": 5,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 6,
+      "partial_interaction_score": 6,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678678,
+          "parent_id": 64678678,
+          "content": "Em thay đổi bằng cách trốn tình tình theo thử xem ..em quăng cho thầy cục lơ tổ bố rồi từ từ để xem ý thầy sau mới tính tiếp dc ..chúc cô thành công ..!",
+          "author": "yrdn9ck87k",
+          "creation_time": 1791307844,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678700,
+          "parent_id": 64678700,
+          "content": "Cứ như đàn ông biến mất hết rồi nhỉ ? 6 năm chả rung động với ai khác chắc vì chỉ học và đi làm. xinh tươi lên và đi chơi nhiều lên, trai theo rồi tha hồ chọn ha.",
+          "author": "ChANge",
+          "creation_time": 1791308373,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678666,
+          "parent_id": 64678666,
+          "content": "Ước gì tui cũng có ai đó để như vậy. Đi bơi với mấy em cá mập tiếp đây. Quá chán....",
+          "author": "Beyeu Cuame",
+          "creation_time": 1791307342,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678723,
+          "parent_id": 64678723,
+          "content": "“Gu” có thể quyết định người mình để ý, nhưng chưa chắc quyết định người mình yêu lâu dài. Nhiều khi gặp đúng người rồi mới nhận ra gu của mình cũng có thể thay đổi, đúng không?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791308841,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678695,
+          "parent_id": 64678695,
+          "content": "Chủ động lên Cô ơi, Nam hay Nữ bài tỏ cảm xúc cũng ok.",
+          "author": "Nha Le",
+          "creation_time": 1791308293,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:04:03.855399+00:00"
+    },
+    {
+      "article_id": 5129182,
+      "url": "https://vnexpress.net/hom-nay-cong-bo-giai-nobel-hoa-hoc-2026-5129182.html",
+      "title": "Hôm nay công bố giải Nobel Hóa học 2026",
+      "published_at": "2026-10-06T17:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 3,
+      "comments_complete": true,
+      "interaction_score": 4,
+      "root_comment_count": 3,
+      "loaded_root_count": 3,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 4,
+      "partial_interaction_score": 4,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678741,
+          "parent_id": 64678741,
+          "content": "Năm nay vị trí vẫn như mọi khi, chỉ không biết là Mỹ lấy được bao nhiêu đây.",
+          "author": "votrunghau240691",
+          "creation_time": 1791309626,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678753,
+          "parent_id": 64678753,
+          "content": "Dự đoán nghiêng về nhóm nghiên cứu giải trình tự DNA thế hệ mới, vì đây là công nghệ đã tạo ảnh hưởng rất lớn đến y sinh và di truyền học. Nhưng Nobel vốn nổi tiếng khó đoán, biết đâu năm nay lại gọi tên pin mặt trời perovskite hoặc một lĩnh vực ít được chú ý hơn?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791310030,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678690,
+          "parent_id": 64678690,
+          "content": "Nobel Hóa học luôn đáng chờ đợi vì nhiều phát hiện tưởng chỉ nằm trong phòng thí nghiệm lại có thể thay đổi cuộc sống sau này. Không biết năm nay giải sẽ gọi tên công trình nào đủ sức tạo bước ngoặt?",
+          "author": "Toco Toco",
+          "creation_time": 1791308206,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:04:06.910763+00:00"
+    },
+    {
+      "article_id": 5129137,
+      "url": "https://vnexpress.net/trang-phap-bien-hoa-vu-dao-truoc-25-000-khan-gia-trung-quoc-5129137.html",
+      "title": "Trang Pháp biến hóa vũ đạo trước 25.000 khán giả Trung Quốc",
+      "published_at": "2026-10-06T17:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:04:10.032609+00:00"
+    },
+    {
+      "article_id": 5129037,
+      "url": "https://vnexpress.net/bau-doan-duoc-uu-ai-trung-dau-gia-dat-de-nuoi-clb-bong-da-thanh-hoa-5129037.html",
+      "title": "Bầu Đoan được ưu ái trúng đấu giá đất để nuôi CLB bóng đá Thanh Hóa",
+      "published_at": "2026-10-06T17:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 2,
+      "comments_complete": true,
+      "interaction_score": 4,
+      "root_comment_count": 2,
+      "loaded_root_count": 2,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 4,
+      "partial_interaction_score": 4,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678751,
+          "parent_id": 64678751,
+          "content": "Đội bóng cần được hỗ trợ là một chuyện, còn đất công đem ra đấu giá lại là chuyện khác. Nếu vì muốn có tiền nuôi đội bóng mà ưu ái một doanh nghiệp trong đấu giá, cuối cùng ai được lợi và ai phải gánh phần thiệt hại?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791309892,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678696,
+          "parent_id": 64678696,
+          "content": "Nuôi bóng đá là đáng trân trọng, nhưng ưu đãi đất cho doanh nghiệp thì cần thật minh bạch. Làm sao để vừa hỗ trợ CLB, vừa bảo đảm lợi ích công?",
+          "author": "Toco Toco",
+          "creation_time": 1791308303,
+          "likes": 1,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:04:13.399970+00:00"
+    },
+    {
+      "article_id": 5129005,
+      "url": "https://vnexpress.net/cac-do-thi-tren-the-gioi-phu-xanh-cong-trinh-giao-thong-the-nao-5129005.html",
+      "title": "Các đô thị trên thế giới phủ xanh công trình giao thông thế nào?",
+      "published_at": "2026-10-06T17:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:04:18.306622+00:00"
+    },
+    {
+      "article_id": 5128999,
+      "url": "https://vnexpress.net/thanh-nien-ba-khong-tang-5128999.html",
+      "title": "Thanh niên 'ba không' tăng",
+      "published_at": "2026-10-06T17:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 2,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 2,
+      "loaded_root_count": 2,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678744,
+          "parent_id": 64678744,
+          "content": "Người trẻ hôm nay có nhiều cơ hội hơn nhưng cũng đứng trước quá nhiều cám dỗ, nhất là mạng xã hội với những thứ dễ khiến người ta mê giải trí, thích hưởng thụ và sống theo hình ảnh của người khác. Đáng sợ không phải một ngày “ba không”, mà là quen với nó quá lâu rồi mất luôn động lực thay đổi.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791309669,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678703,
+          "parent_id": 64678703,
+          "content": "Tuổi 15-24 vẫn còn rất trẻ, “ba không” hôm nay không có nghĩa là không có tương lai. Quan trọng là xã hội tạo được thêm cơ hội học nghề, việc làm và định hướng phù hợp để các bạn tìm được con đường của mình.",
+          "author": "Toco Toco",
+          "creation_time": 1791308395,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:04:21.686394+00:00"
+    },
+    {
+      "article_id": 5129205,
+      "url": "https://vnexpress.net/phia-dong-vuon-dia-dang-thien-ac-nam-o-lua-chon-5129205.html",
+      "title": "'Phía đông vườn địa đàng': Thiện, ác nằm ở lựa chọn",
+      "published_at": "2026-10-06T17:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 2,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 2,
+      "loaded_root_count": 2,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678740,
+          "parent_id": 64678740,
+          "content": "Có những vụ việc đau lòng, đám đông vội gọi một người là “đứa con bất trị”, nhưng ít ai hỏi sự bất trị ấy bắt đầu từ đâu? Không đứa trẻ nào sinh ra đã biết cái ác; cách cha mẹ yêu thương, dạy dỗ, làm gương và môi trường lớn lên đều có thể góp phần hình thành nhân cách. Dĩ nhiên, khi trưởng thành mỗi người vẫn phải chịu trách nhiệm với lựa chọn của mình, nhưng trước khi phán xét một đứa con, có lẽ cũng nên nhìn lại gia đình đã trao cho nó những gì trong những năm tháng đầu đời.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791309597,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678704,
+          "parent_id": 64678704,
+          "content": "Con người có thể không chọn được hoàn cảnh mình sinh ra, nhưng vẫn có quyền chọn cách mình sống. Có lẽ thiện hay ác đôi khi không nằm ở bản tính, mà nằm ở những lựa chọn mỗi ngày.",
+          "author": "Toco Toco",
+          "creation_time": 1791308412,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:04:25.732222+00:00"
+    },
+    {
+      "article_id": 5129239,
+      "url": "https://vnexpress.net/chay-kem-no-lon-tai-cong-ty-son-o-tp-hcm-5129239.html",
+      "title": "Cháy kèm nổ lớn tại công ty sơn ở TP HCM",
+      "published_at": "2026-10-06T16:58:23+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 3,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 3,
+      "loaded_root_count": 3,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678733,
+          "parent_id": 64678733,
+          "content": "Những vụ cháy, nổ ở cơ sở sản xuất nằm xen kẽ khu dân cư luôn khiến người dân lo lắng. Không biết đến khi nào mới có thể di dời dứt điểm các xưởng, nhất là những nơi sản xuất hoặc chứa vật liệu dễ cháy nổ, ra khỏi khu dân cư và đưa vào khu sản xuất tập trung?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791309363,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678730,
+          "parent_id": 64678730,
+          "content": "Nhà xưởng chứa sơn, hóa chất mà cháy còn kèm nổ lớn thì mức độ nguy hiểm quá cao. Có lẽ cần kiểm tra kỹ hơn điều kiện PCCC và việc cơ sở có thực sự đủ điều kiện hoạt động hay không?",
+          "author": "Toco Toco",
+          "creation_time": 1791309320,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678706,
+          "parent_id": 64678706,
+          "content": "Nhà xưởng chứa sơn, hóa chất mà cháy còn kèm nổ lớn thì mức độ nguy hiểm quá cao. Có lẽ cần kiểm tra kỹ hơn điều kiện PCCC và việc cơ sở có thực sự đủ điều kiện hoạt động hay không?",
+          "author": "Toco Toco",
+          "creation_time": 1791308482,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:04:29.309378+00:00"
+    },
+    {
+      "article_id": 5129215,
+      "url": "https://vnexpress.net/phu-nhan-lanh-dao-viet-nam-panama-tim-hieu-van-hoa-dan-toc-thieu-so-5129215.html",
+      "title": "Phu nhân lãnh đạo Việt Nam - Panama tìm hiểu văn hóa dân tộc thiểu số",
+      "published_at": "2026-10-06T16:23:53+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:04:32.784484+00:00"
+    },
+    {
+      "article_id": 5129231,
+      "url": "https://vnexpress.net/nghien-cuu-giao-dich-chung-khoan-xuyen-trua-noi-bien-do-gia-5129231.html",
+      "title": "Nghiên cứu giao dịch chứng khoán xuyên trưa, nới biên độ giá",
+      "published_at": "2026-10-06T15:46:13+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:04:35.919363+00:00"
+    },
+    {
+      "article_id": 5129174,
+      "url": "https://vnexpress.net/ha-truc-linh-khoe-sac-ben-thi-sinh-hoa-hau-viet-nam-2026-5129174.html",
+      "title": "Hà Trúc Linh khoe sắc bên thí sinh Hoa hậu Việt Nam 2026",
+      "published_at": "2026-10-06T15:34:12+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:04:39.309481+00:00"
+    },
+    {
+      "article_id": 5129217,
+      "url": "https://vnexpress.net/panama-san-sang-lam-cua-ngo-ket-noi-viet-nam-voi-my-latin-5129217.html",
+      "title": "Panama sẵn sàng làm cửa ngõ kết nối Việt Nam với Mỹ Latin",
+      "published_at": "2026-10-06T15:30:32+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:04:42.111401+00:00"
+    },
+    {
+      "article_id": 5129228,
+      "url": "https://vnexpress.net/bi-phat-hien-trom-xe-may-tu-clip-khieu-khich-nguoi-di-duong-5129228.html",
+      "title": "Bị phát hiện trộm xe máy từ clip khiêu khích người đi đường",
+      "published_at": "2026-10-06T15:25:56+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:04:49.820794+00:00"
+    },
+    {
+      "article_id": 5129219,
+      "url": "https://vnexpress.net/trom-cho-trong-20-giay-5129219.html",
+      "title": "Trộm chó trong 20 giây",
+      "published_at": "2026-10-06T15:18:20+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 4,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 4,
+      "loaded_root_count": 4,
+      "loaded_reply_count": 1,
+      "total_comment_likes": 7,
+      "partial_interaction_score": 8,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678388,
+          "parent_id": 64678388,
+          "content": "Còn người thu mua trái phép thì còn trộm.",
+          "author": "TRƯỞNG THÔN",
+          "creation_time": 1791300862,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678461,
+          "parent_id": 64678461,
+          "content": "Phạt luôn ngừời mua thì sẽ không còn người bắt trộm",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791301840,
+          "likes": 3,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64678502,
+          "parent_id": 64678502,
+          "content": "Nếu tất cả những con chó này được nuôi nhốt trong phạm vi nhà mình thì sẽ chẳng có trộm chó.",
+          "author": "Mouka",
+          "creation_time": 1791302860,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678466,
+          "parent_id": 64678466,
+          "content": "Ác nhân! Nhà tôi đã từng bị nó thảy thòng lọng lôi con chó cưng của mẹ tôi sền xệch trên đường! ",
+          "author": "Tăng Thanh Mỹ",
+          "creation_time": 1791302054,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678670,
+          "parent_id": 64678461,
+          "content": "Nếu chó bị chúng bắt trộm mà ở trong nhà thì xem như không phạt chủ chó. Còn chó mà cứ chạy rông ngoài đường chúng bắt thì phải phạt cả chủ chó ",
+          "author": "tamduc",
+          "creation_time": 1791307587,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:04:54.432606+00:00"
+    },
+    {
+      "article_id": 5129224,
+      "url": "https://vnexpress.net/da-nang-se-di-doi-hon-7-100-ho-dan-de-tranh-thien-tai-5129224.html",
+      "title": "Đà Nẵng sẽ di dời hơn 7.100 hộ dân để tránh thiên tai",
+      "published_at": "2026-10-06T15:09:30+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:04:57.457066+00:00"
+    },
+    {
+      "article_id": 5129222,
+      "url": "https://vnexpress.net/nhan-su-hanh-chinh-cong-o-da-nang-duoc-ho-tro-2-trieu-dong-moi-thang-5129222.html",
+      "title": "Nhân sự hành chính công ở Đà Nẵng được hỗ trợ 2 triệu đồng mỗi tháng",
+      "published_at": "2026-10-06T14:52:58+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:05:00.422729+00:00"
+    },
+    {
+      "article_id": 5129220,
+      "url": "https://vnexpress.net/duong-tu-quynh-duoc-vinh-danh-tai-lien-hoan-phim-busan-5129220.html",
+      "title": "Dương Tử Quỳnh được vinh danh tại Liên hoan phim Busan",
+      "published_at": "2026-10-06T14:48:37+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 1,
+      "comments_complete": true,
+      "interaction_score": 1,
+      "root_comment_count": 1,
+      "loaded_root_count": 1,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 1,
+      "partial_interaction_score": 1,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678571,
+          "parent_id": 64678571,
+          "content": "Đúng là thời gian không chừa một ai",
+          "author": "No@Name",
+          "creation_time": 1791304483,
+          "likes": 1,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:05:03.667383+00:00"
+    },
+    {
+      "article_id": 5129194,
+      "url": "https://vnexpress.net/ong-macron-thi-sat-vu-phong-ten-lua-tu-tau-ngam-hat-nhan-5129194.html",
+      "title": "Ông Macron thị sát vụ phóng tên lửa từ tàu ngầm hạt nhân",
+      "published_at": "2026-10-06T14:36:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 2,
+      "comments_complete": true,
+      "interaction_score": 15,
+      "root_comment_count": 2,
+      "loaded_root_count": 2,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 15,
+      "partial_interaction_score": 15,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678349,
+          "parent_id": 64678349,
+          "content": "M51.3 đáng chú ý ở công nghệ tên lửa thế hệ mới với tầm bắn rất xa, độ chính xác được cải thiện và khả năng vượt qua hệ thống phòng thủ tên lửa tốt hơn. Công nghệ phóng từ tàu ngầm cũng đòi hỏi độ ổn định và độ tin cậy cực cao.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791300139,
+          "likes": 14,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678329,
+          "parent_id": 64678329,
+          "content": "Cầu mong thế giới hòa bình.",
+          "author": "T.Thơ",
+          "creation_time": 1791299937,
+          "likes": 1,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:05:08.876960+00:00"
+    },
+    {
+      "article_id": 5128537,
+      "url": "https://vnexpress.net/phu-huynh-nhan-sai-sau-1-thang-cho-con-nghi-hoc-vi-sap-nhap-truong-5128537.html",
+      "title": "Phụ huynh nhận sai sau 1 tháng cho con nghỉ học vì sáp nhập trường",
+      "published_at": "2026-10-06T14:27:33+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 3,
+      "comments_complete": true,
+      "interaction_score": 5,
+      "root_comment_count": 3,
+      "loaded_root_count": 3,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 5,
+      "partial_interaction_score": 5,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678225,
+          "parent_id": 64678225,
+          "content": "Nhiều phụ huynh có lẽ đã đặt sự bất tiện của gia đình lên trước quyền lợi học tập lâu dài của con. Đường xa đúng là một khó khăn, nhưng nếu nhà trường và địa phương đã có nhiều phương án hỗ trợ thì việc phản đối, thậm chí cho con nghỉ học chỉ vì không muốn đến điểm trường chính, có phần thiếu cân nhắc. Nay phụ huynh nhận ra mình đã sai thì cũng nên mừng, quan trọng nhất là các em được trở lại trường và không tiếp tục bị ảnh hưởng việc học.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791298639,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678203,
+          "parent_id": 64678203,
+          "content": "6-7km cũng xa thật, nhưng không thể xa bằng mất kiến thức được.<br />ngày 4 lượt đưa đón rất mất công, mất thời gian và chi phí cao thì có thể cho các bạn đi xe điện. chỗ mình từ mầm non đến tiểu học đi xe điện nhiều lắm. cấp 2 thì 1 số gia đình đưa đón, còn phần lớn các bạn tự đi xe đạp.<br />tầm 150 học sinh khu vực đó thì ai đó có thể đầu tư xe tầm 300 triệu, chạy cũng ổn. hơn đi làm công nhân nhiều, thu nhập tầm 15 triệu/ tháng là có thể với số lượng 50 học sinh, có thể tranh thủ làm việc nhà,... chỉ cần có bằng lái, xe có đăng kiểm, phụ nữ có thể làm.",
+          "author": "VH",
+          "creation_time": 1791298427,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678592,
+          "parent_id": 64678592,
+          "content": "Các con xa trường không phải do khoảng cách mà xa do suy nghĩ của bố mẹ",
+          "author": "ank55b1",
+          "creation_time": 1791304884,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:05:12.924352+00:00"
+    },
+    {
+      "article_id": 5129200,
+      "url": "https://vnexpress.net/lu-cat-do-tran-xuong-mui-ne-trong-dem-5129200.html",
+      "title": "Lũ cát đỏ tràn xuống Mũi Né trong đêm",
+      "published_at": "2026-10-06T14:21:23+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 6,
+      "comments_complete": true,
+      "interaction_score": 20,
+      "root_comment_count": 4,
+      "loaded_root_count": 4,
+      "loaded_reply_count": 2,
+      "total_comment_likes": 18,
+      "partial_interaction_score": 20,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678057,
+          "parent_id": 64678057,
+          "content": "Địa hình chủ yếu đồi cát, nhờ các vòm cây cỏ, bụi gai giữ đất, nay xây dựng nhà cửa, hạ tầng trên các vùng đất này thì mưa sẽ gây kết quả như thế này và sẽ còn tiếp diễn.",
+          "author": "nghoanglongpt",
+          "creation_time": 1791297150,
+          "likes": 15,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678112,
+          "parent_id": 64678112,
+          "content": "Lũ cát đỏ và lũ bùn có phải là hai hiện tượng khác nhau không? Nhìn hình ảnh thì đều là dòng nước cuốn theo vật liệu từ sườn đồi, nhưng không biết trường hợp ở Mũi Né được gọi là “lũ cát” dựa trên thành phần cát chiếm chủ yếu hay còn có tiêu chí địa chất nào khác?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791297602,
+          "likes": 2,
+          "expected_replies": 2
+        },
+        {
+          "comment_id": 64678417,
+          "parent_id": 64678417,
+          "content": "Thiên tai giờ rất khắc nghiệt, khó lường trước mong mọi người cẩn trọng",
+          "author": "buithithuy021980",
+          "creation_time": 1791301233,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678166,
+          "parent_id": 64678166,
+          "content": "Nói bao lần rồi trọc lóc như thế thì không lũ mới lạ đấy làm ơn trồng cây đi chứ bao nhiêu năm nữa cũng sẽ có cảnh này thôi",
+          "author": "Chip co don3",
+          "creation_time": 1791298126,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678242,
+          "parent_id": 64678112,
+          "content": "Lũ cát đó bạn, cát màu đỏ đặc trưng chứ khu này không có bùn!<br />Khu này xưa chỉ là những đồi cát tự nhiên chạy dọc ven biển Mũi Né. Giờ xây khách sạn trên cao thì nó dễ sụt lún xuống dưới khi có mưa lắm",
+          "author": "trungtranminh76",
+          "creation_time": 1791298846,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678501,
+          "parent_id": 64678112,
+          "content": "Lũ cát đỏ và lũ bùn là tên gọi của thành phần chiếm đa số theo dòng nước lũ cuốn xuống.",
+          "author": "phonglucifer666",
+          "creation_time": 1791302819,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:05:17.313958+00:00"
+    },
+    {
+      "article_id": 5129213,
+      "url": "https://vnexpress.net/djokovic-vo-dich-ca-bay-lan-du-giai-bac-kinh-5129213.html",
+      "title": "Djokovic vô địch cả bảy lần dự giải Bắc Kinh",
+      "published_at": "2026-10-06T14:14:02+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 27,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 22,
+      "loaded_root_count": 22,
+      "loaded_reply_count": 3,
+      "total_comment_likes": 166,
+      "partial_interaction_score": 169,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678162,
+          "parent_id": 64678162,
+          "content": "Đúng là cup rơi trúng đầu NOLE, nói vui vậy thôi chứ chức vô địch này hoàn toàn xứng đáng và là 1 minh chứng cho thấy Nole vẫn có thể hạ bất cứ tay vợt nào ở thời điểm hiện tại dù năm nay đã qua 39 tuổi. Nole mãi đỉnh, chúc mừng Nole!",
+          "author": "quochuynh007",
+          "creation_time": 1791298097,
+          "likes": 24,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678190,
+          "parent_id": 64678190,
+          "content": "Xem Novark giờ tuổi cao, sự nhanh nhẹn không bằng xưa, rally nhiều chạm hơi đuối, các cú đánh lực giảm nhiều nhưng bù lại giao bóng hay hơn xưa, cộng với kinh nghiệm đọc trận đấu cũng như các tình huống nên còn rất đáng xem, quá giỏi luôn....",
+          "author": "ledacquynhkhe",
+          "creation_time": 1791298338,
+          "likes": 18,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678085,
+          "parent_id": 64678085,
+          "content": "Thắng kiểu này lại bị mấy anti-fan vào nói nữa kkk! nhưng chắc Med hay De Minaur đã xem trận tứ kết Nole với Zverev rồi nên thôi tự hủy để Nole giành cúp chứ đánh tiếp cũng ối giời ôi thôi kkk. Chúc mừng Nole với danh hiệu 102 và tỉ lệ 34-0 ở 1 giải đấu, Quá khủng khiếp! chúc mừng Nole",
+          "author": "nguyen.vuong80",
+          "creation_time": 1791297360,
+          "likes": 19,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678156,
+          "parent_id": 64678156,
+          "content": "Đúng như BLV đã nói, trận đấu với Alexander Zverev được xem như trận chung kết sớm.<br />Ở tuổi 39, Cậu ta vẫn kiên cường vượt qua những tay vợt mạnh.<br />Chức vô địch quá xứng đáng cho Nole.",
+          "author": "VanDu Nguyen",
+          "creation_time": 1791298068,
+          "likes": 12,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678055,
+          "parent_id": 64678055,
+          "content": "Djokovic quá tuyệt vời, cậu là hiện thân của mầu cầu thủ luôn phấn đấu với mục tiêu, chăm chỉ, kỷ luật, ko bỏ cuộc, mặc dù lắm kẻ anti nhưng vẫn ko để ý, giống Ronado, tấm gương cho các cầu thủ trẻ noi theo.",
+          "author": "Buianh",
+          "creation_time": 1791297139,
+          "likes": 10,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678035,
+          "parent_id": 64678035,
+          "content": "Trận này Nole đánh hay nhưng dàn xếp tình huống dỡ quá, kịch bản mà Antifan mong muốn là Nole thua Set 1 xong qua Set 2 thì Minaur bỏ cuộc rồi Nole may mắn vô địch, chúc mừng Nole lại có thêm 1 chức vô địch ATP, thời trẻ ráng cày thêm ATP500 là giờ đã vượt tổng số danh hiệu ATP của Fed rồi, cứ lo đánh giải lớn bỏ giải nhỏ nên giờ vẫn còn thua Fed",
+          "author": "NOLE - No1 - GOAT OF TENNIS",
+          "creation_time": 1791296917,
+          "likes": 10,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678148,
+          "parent_id": 64678148,
+          "content": "\"Tôi biết khi cảm thấy khỏe và có cảm giác bóng tốt, tôi vẫn có thể cạnh tranh ở trình độ cao nhất.\" - tôi luôn tin Nole sẽ làm nên chuyện còn Mấy chiên gia tự phong và các Anti-fan khuyên Nole nên giải nghệ hãy vào cho ý kiến nhé hehe! chúc mừng Nole",
+          "author": "nguyen.vuong80",
+          "creation_time": 1791298004,
+          "likes": 9,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677979,
+          "parent_id": 64677979,
+          "content": "Còn 1 danh hiệu nữa là cân bằng với feder rồi. Djokovic cố gắng năm sau làm phát atp250 cũng được.kkkk",
+          "author": "Nguyễn xuân hoàng",
+          "creation_time": 1791296315,
+          "likes": 8,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678222,
+          "parent_id": 64678222,
+          "content": "Xin chúc mừng Nole đã có chức vô địch thứ 102 trong sự nghiệp. Mãi là fan Nole.",
+          "author": "ngovietthai0309",
+          "creation_time": 1791298601,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678168,
+          "parent_id": 64678168,
+          "content": "Thời tới cản không kịp.",
+          "author": "nguyenthaihuyspkt",
+          "creation_time": 1791298137,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678037,
+          "parent_id": 64678037,
+          "content": "Chúc mừng Nole! Chúc Nole luôn khỏe để cống hiến thêm vài giải đấu nữa trước khi về hưu.",
+          "author": "khacchuot74",
+          "creation_time": 1791296933,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678322,
+          "parent_id": 64678322,
+          "content": "Gần 40 tuổi mà Nole vẫn có Cup là oki rồi anh em fan và antifan nhỉ. Cup nhỏ thôi nhưng vẫn tính là danh hiệu nhé",
+          "author": "Nole Fan",
+          "creation_time": 1791299849,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678304,
+          "parent_id": 64678304,
+          "content": "Djokovic vẫn quá bản lĩnh ở tuổi 39, nhưng chức vô địch lần này cũng có phần may mắn khi bán kết đối thủ bị xử thua và chung kết De Minaur phải bỏ cuộc vì chấn thương.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791299649,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678031,
+          "parent_id": 64678031,
+          "content": "Chắc cũng vài năm rồi chuyên gia tôi và fan cậu Djokovic mới thấy cậu nâng cúp, giờ đây chắc các fan của cậu lòng đang đau quặn thắt vì mừng quá mừng. Sau bao ngày im tiếng súng thì từ mai trở đi điệp khúc \"tin với tưởng\" Djokovic đoạt GS thứ 25 sẽ lại vang lên ầm ĩ cho mà xem !!!",
+          "author": "ansyquansau.htd",
+          "creation_time": 1791296905,
+          "likes": 3,
+          "expected_replies": 2
+        },
+        {
+          "comment_id": 64678364,
+          "parent_id": 64678364,
+          "content": "No thi đấu ở Trung Quốc cứ như ở sân nhà vậy. Khán giả Trung Quốc rất tuyệt vời, rất văn minh lịch sự. Còn trận đấu hôm nay thật tiếc cho De Minaur vì đã rất cố gắng, có lẽ vì vậy mà căng cơ và bỏ cuộc. Sau trận đấu dù khán giả cổ vũ cho No nhưng cậu vẫn xin lỗi khán giả vì cái. Chúc mừng No có thêm một chức vô đich và lập thêm kỉ lục mới cho bản thân.",
+          "author": "dunghungkhang",
+          "creation_time": 1791300456,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678077,
+          "parent_id": 64678077,
+          "content": "Chung kết thì đối thủ tự bỏ cuộc, bán kết thì đối thủ bị trọng tài bắt bỏ cuộc,Djokovic son thật xin được chúc mừng anh.",
+          "author": "Baobap",
+          "creation_time": 1791297278,
+          "likes": 2,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64677981,
+          "parent_id": 64677981,
+          "content": "Lại tình huống tương tự hôm qua nữa, kì lạ thật =))",
+          "author": "nguyentuanhai3000",
+          "creation_time": 1791296333,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678363,
+          "parent_id": 64678363,
+          "content": "Giải đấu này Nole có may mắn thật, khi đối thủ bỏ cuộc vì chấn thương và bị xử thua ngoài chuyên môn.<br />Nhưng trình độ và bản lĩnh của anh là điều đáng được tôn trọng: anh đã ngược dòng thắng HG sô1 Zverev (mới vô địch US Open). (Nole cũng có chút may khi anh bị loại sớm nên có thời gian chuẩn bị hơn so với các tay vợt tiến sâu ở US Open).<br />Đây là giải ATP 500 nên độ uy tín là có chứ không phải giải cỏ (ATP 250).<br />Chúc mừng Nole khi sắp vượt RF trên BXH danh hiệu cá nhân.",
+          "author": "reea44073",
+          "creation_time": 1791300410,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678676,
+          "parent_id": 64678676,
+          "content": "Ít thi đấu tiết kiệm sức là tốt, nhưng cảm giác khi vào Grand Slam, cơ thể ít vận động cường độ cao nên thích nghi bị chậm...chúc mừng GOAT có thêm Danh hiệu!",
+          "author": "Hùng Anh",
+          "creation_time": 1791307798,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678457,
+          "parent_id": 64678457,
+          "content": "Nole lại dùng chiêu gì mà De Minaur thua tức tưởi, ông này chơi kỳ quá",
+          "author": "Thichminhbach",
+          "creation_time": 1791301751,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678346,
+          "parent_id": 64678346,
+          "content": "Vô địch là do đối thủ bỏ cuộc.",
+          "author": "leminh1080",
+          "creation_time": 1791300107,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678303,
+          "parent_id": 64678303,
+          "content": "đỏ thì ko ai bằng.",
+          "author": "lady",
+          "creation_time": 1791299637,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678289,
+          "parent_id": 64678031,
+          "content": "Con số đẹp và lý tưởng nhất là 23 &gt; 22, nhưng Nole còn làm được nhiều hơn cả kỳ vọng, phải số chẳn mới chịu 24 &gt; 22 &gt; 20, giờ mà 25 thì sẽ là BigOne chứ không còn Big3 nữa, nên nhiêu đó đủ rồi, ansyquansau đừng có suy bụng ta ra bụng người, đau quặn thắt mấy năm nay rồi mà lâu lâu Nole còn chọt nhẹ cho cái atp 500 thì chắn thốn lắm :')",
+          "author": "NOLE - No1 - GOAT OF TENNIS",
+          "creation_time": 1791299450,
+          "likes": 16
+        },
+        {
+          "comment_id": 64678577,
+          "parent_id": 64678031,
+          "content": "Nhớ mấy năm trước chiên da từng thề thốt gì mà Nole sẽ không bao giờ có thêm cái danh hiệu ATP nào nữa mà nay đã có thêm 1 cái 250, 1 cái 500 rồi nên chiên da cũng nên nhớ về lời thề năm xưa mà thực hiện chứ! B)",
+          "author": "Tinh Anh",
+          "creation_time": 1791304626,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678324,
+          "parent_id": 64678077,
+          "content": "2 trận Djokovic đều đang thắng, đánh tiếp vẫn thua thôi, trận trước thì Med gần như thua rồi. Kiểu chơi của De minaur chạy nhiều, 27 tuổi không bằng ông 39 tuổi. Thi đấu chuyên nghiệp không dính chấn thương không phải do may mắn, là phương pháp và kỹ năng cả.",
+          "author": "yr258c6ddg",
+          "creation_time": 1791299897,
+          "likes": 6
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:05:24.786564+00:00"
+    },
+    {
+      "article_id": 5129207,
+      "url": "https://vnexpress.net/alcaraz-giai-con-khat-danh-hieu-5129207.html",
+      "title": "Alcaraz giải cơn khát danh hiệu",
+      "published_at": "2026-10-06T14:13:38+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 3,
+      "comments_complete": true,
+      "interaction_score": 5,
+      "root_comment_count": 3,
+      "loaded_root_count": 3,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 5,
+      "partial_interaction_score": 5,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678184,
+          "parent_id": 64678184,
+          "content": "Sau gần 8 tháng chờ đợi và quãng thời gian dài nghỉ vì chấn thương, Alcaraz cuối cùng cũng lại nâng cúp. Mình thấy đáng nể nhất là dù chưa đạt phong độ tốt nhất, cậu ấy vẫn biết cách vượt khó ở những thời điểm quan trọng. Danh hiệu ATP thứ 27 ở tuổi 23 cho thấy Alcaraz vẫn đang tiến rất nhanh trên con đường trở thành một trong những tay vợt lớn của thế hệ mới",
+          "author": "Lucky_girl",
+          "creation_time": 1791298230,
+          "likes": 5,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678498,
+          "parent_id": 64678498,
+          "content": "Ối, Alcaraz đây sao? Nhìn không ra luôn, giống Al-Qaeda chứ không phải Alcaraz! :P",
+          "author": "david.wardusa34",
+          "creation_time": 1791302756,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678187,
+          "parent_id": 64678187,
+          "content": "Alcaraz vẫn còn khoảng cách khá lớn giữa tài năng và sự ổn định, một tay vợt muốn thống trị lâu dài phải chứng minh được bản lĩnh ở Grand Slam và duy trì phong độ qua cả mùa, chứ không chỉ bùng nổ từng giải.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791298318,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:05:31.137517+00:00"
+    },
+    {
+      "article_id": 5129185,
+      "url": "https://vnexpress.net/iea-canh-bao-an-ninh-nang-luong-dong-nam-a-5129185.html",
+      "title": "IEA cảnh báo an ninh năng lượng Đông Nam Á",
+      "published_at": "2026-10-06T14:11:42+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:05:35.213597+00:00"
+    },
+    {
+      "article_id": 5129069,
+      "url": "https://vnexpress.net/tennessee-muon-tang-tu-hinh-bang-ghe-dien-sau-vu-tiem-thuoc-doc-bat-thanh-5129069.html",
+      "title": "Tennessee muốn tăng tử hình bằng ghế điện sau vụ tiêm thuốc độc bất thành",
+      "published_at": "2026-10-06T14:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:05:38.945351+00:00"
+    },
+    {
+      "article_id": 5129191,
+      "url": "https://vnexpress.net/tac-nhan-bat-hao-cua-openai-tan-cong-wikipedia-5129191.html",
+      "title": "Tác nhân 'bất hảo' của OpenAI tấn công Wikipedia",
+      "published_at": "2026-10-06T13:57:59+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 3,
+      "comments_complete": true,
+      "interaction_score": 4,
+      "root_comment_count": 3,
+      "loaded_root_count": 3,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 4,
+      "partial_interaction_score": 4,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678079,
+          "parent_id": 64678079,
+          "content": "Wikipedia có lợi thế là kho kiến thức khổng lồ, nhưng điểm yếu cũng nằm ở đó, ai cũng có thể tham gia chỉnh sửa nên chất lượng không phải lúc nào cũng đồng đều. Khi AI có thể tạo và sửa nội dung với tốc độ hàng triệu lần, liệu cơ chế kiểm duyệt của Wikipedia có còn theo kịp?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791297294,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677957,
+          "parent_id": 64677957,
+          "content": "Mô hình AI thâm nhập vào các trang web lớn mục đích của nó là cũng làm theo lệnh của con người là lấy mọi thông tin của tất cả nhân loại nên trang web nào nó cũng có thể thâm nhập để lấy thông tin kiến thức và cung cấp cho người hỏi thế thôi dù trang web đó có bảo mật cỡ nào nó cũng thâm nhập được đối với truyền thống các hacker phải viết mã code hoặc tìm lỗ hổng bảo mật còn AI nó thông minh hơn thì thâm nhập dễ dàng.",
+          "author": "Truong Giang",
+          "creation_time": 1791296047,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678564,
+          "parent_id": 64678564,
+          "content": "Lượng truy cập của AI liên tục và chiếm tỷ lệ cao .. .. tốn biêt bao tài nguyên . Không biết làm đc gì nhưng ăn hại là thấy rõ !",
+          "author": "tranquocvan85",
+          "creation_time": 1791304313,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:05:42.340065+00:00"
+    },
+    {
+      "article_id": 5129061,
+      "url": "https://vnexpress.net/me-gao-con-khoc-vi-bai-tap-ve-nha-moi-toi-5129061.html",
+      "title": "Mẹ gào, con khóc vì bài tập về nhà mỗi tối",
+      "published_at": "2026-10-06T13:43:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 13,
+      "comments_complete": true,
+      "interaction_score": 4,
+      "root_comment_count": 12,
+      "loaded_root_count": 12,
+      "loaded_reply_count": 1,
+      "total_comment_likes": 3,
+      "partial_interaction_score": 4,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678458,
+          "parent_id": 64678458,
+          "content": "Tác giả đang viết về vợ tôi chăng? Mỗi lần 2 mẹ con học bài là y như rằng đang cãi lộn, tiếng la tiếng khóc hoà vào nhau!<br />Sau này tui phụ trách luôn phần dạy ku cậu học, mới hơn 2 tháng thôi nên cũng không biết kết quả thế nào nhưng ku cậu học rất vui vẻ, nhất là nhà cửa yên ắn!<br />“Sai thì làm lại không sao cả” - đấy là câu tôi thường nói nhất khi dạy con học. Cơ bản là tôi không quá kỳ vọng con phải xuất sắc nên chắc tâm lý cũng nhẹ nhàng hơn!",
+          "author": "Hoàng A",
+          "creation_time": 1791301780,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677890,
+          "parent_id": 64677890,
+          "content": "Nhà tôi đang như thế. Các con tôi kèm cháu tôi, bé mới vào lớp 1 được đúng 1 tháng. Mà thấy các con đọc tn của cô toàn thấy phàn nàn cháu chậm, cháu viết xấu,... Thế rồi, bài tập nọ bài luyện kia chực chờ lê thê cả tồi. Tôi ko hiểu sao các cô giáo giao nhiều bài thế. Rất quan ngại với tình hình này. ",
+          "author": "Hồng Lê",
+          "creation_time": 1791295310,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678593,
+          "parent_id": 64678593,
+          "content": "Hình như nhà nào cũng vậy.",
+          "author": "Nguyễn Khánh Tùng",
+          "creation_time": 1791304933,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678362,
+          "parent_id": 64678362,
+          "content": "Mẹ:con có 5 hộp sữa,bạn lan con con 2 hộp vậy con còn mấy hộp sữa.<br />Con trai;con còn 5 hộp.<br />Mẹ:sao còn 5 hộp,bạn lan xin con 2 hộp rồi cơ mà!<br />Con trai:nhưng con có cho bạn đâu!<br />Mẹ....!!",
+          "author": "Chung khờ",
+          "creation_time": 1791300396,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678276,
+          "parent_id": 64678276,
+          "content": "Không hiểu từ bao giờ điểm số của con lại trở thành “thành tích” của cha mẹ? Nhiều phụ huynh sợ con thua bạn, sợ điểm thấp ảnh hưởng tương lai nên vô tình biến mỗi buổi tối thành một cuộc chạy đua. Con học tốt là đáng mừng, nhưng nếu một đứa trẻ phải khóc vì vài con điểm thì có khi người lớn cũng nên nhìn lại mình đang đặt kỳ vọng vào con hay đang đặt áp lực lên con.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791299310,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678257,
+          "parent_id": 64678257,
+          "content": "Bây giờ môi trường học tập, bạn bè rất quan trọng. Xét mặt bằng chung chứ không tính số ít gia đình có điều kiện. Nếu trẻ vào được môi trường tốt, lành mạnh thì ba mẹ sẽ bớt lo hơn so với khi trẻ học cùng một số bạn xấu. Mà những ngôi trường tốt thì thường điểm đầu vào lại cao, ngoài ra có những thời điểm mang tính bản lề, quan trọng mà khó có thể quay lại, ví dụ như tuyển sinh đầu cấp, nên đôi khi phải giải thích hoặc cho trẻ được chứng kiến 2 mặt của việc đánh đổi. Tất nhiên là ba mẹ phải đồng hành với trẻ thì mới hiểu được năng lực của trẻ đến đâu mà phấn đấu cho phù hợp, để trẻ không thấy áp lực quá.",
+          "author": "loanchuonggia",
+          "creation_time": 1791299120,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678232,
+          "parent_id": 64678232,
+          "content": "Con trai tôi cũng đang học lớp 3 nhưng tôi thấy khối lượng bài tập về nhà rất ít,con học bán trú.Quy trình là khi đón con về là tôi sẽ kiểm tra vở ghi lời dặn xem hôm nay có bài tập gì và cô giáo có nhận xét gì về con,sau đó là cho con tắm rửa,thư giãn,ăn tối rồi đến lớp học thêm.Tôi chỉ yêu cầu giáo viên ở trung tâm học thêm là hướng dẫn con làm những bài tập có trong vở lời dặn,rèn thêm những gì con còn yếu hoặc gvcn ghi chú.Chắc tại vợ ck tôi chỉ là lao động phổ thông nên cũng không có tư tưởng ép con học nâng cao cái này,cái kia,chỉ cần con thích đi học,tự giác học và hoàn thành tốt những bài học ở lớp là được rồi.Và đến nay kết quả vẫn như tôi mong muốn...",
+          "author": "dinhnhatanh1812",
+          "creation_time": 1791298741,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678206,
+          "parent_id": 64678206,
+          "content": "Chúng ta phải thay đổi lại chương trình bằng chương trình các nước Đức, Israel thì sẽ bớt khổ cho cả 4 : Học sinh, giáo viên, cha mẹ, nhà tuyển dụng.",
+          "author": "lovemoneynguyen",
+          "creation_time": 1791298454,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677985,
+          "parent_id": 64677985,
+          "content": "nguyên tắc Không đặt kỳ vọng lớn sẽ không thất vọng và nổi nóng với con khi học. vậy nên khi dạy mãi mà con khoog hiểu hãy cho cả 2 nghỉ ngơi đã chứ đừng cố ép buộc vì thế sẽ phản tác dụng.",
+          "author": "nguyen.vuong80",
+          "creation_time": 1791296406,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677945,
+          "parent_id": 64677945,
+          "content": "Chúng ta cũng không nên đổ lỗi hết cho chương trình học, mà cũng cần nhìn nhận lại tâm lý kỳ vọng quá lớn từ phía cha mẹ. Muốn con phải giỏi toàn diện, phải đứng top, phải làm hết bài nâng cao... chính tâm lý sợ con thua kém bạn bè đã vô tình tạo áp lực ép con học đến kiệt sức. Nếu cha mẹ biết buông bỏ bớt thành tích, chấp nhận năng lực thực tế của con thì những trận \"mẹ gào con khóc\" mỗi tối chắc chắn sẽ giảm đi rất nhiều.<br />&nbsp;",
+          "author": "Bình thường thôi",
+          "creation_time": 1791295918,
+          "likes": 0,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64677895,
+          "parent_id": 64677895,
+          "content": "câu chuyện của nhiều gia đình,tình cảm mẹ con sứt mẻ từ đây.",
+          "author": "Chung khờ",
+          "creation_time": 1791295338,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677832,
+          "parent_id": 64677832,
+          "content": "- Bé con tôi học tiếng Anh tiếng Việt thì khá lắm mà học Toán sai tới sai lui.. haiz, chỉ mới lớp 2 thôi đấy<br />- Tôi còn hi vọng nó sau này vượt tôi ngày xưa: đạt học sinh giỏi quốc gia ( tôi đạt giải tỉnh tiếng Anh 20 năm trước)... :) haha tham vọng lắm",
+          "author": "Hắc Ám Thiên Thần Lucifer",
+          "creation_time": 1791294712,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678211,
+          "parent_id": 64677945,
+          "content": "Do chương trình học thôi, mấy nước âu mỹ học khá thoải mái và con nít thích đến trường hơn là tự hiểu",
+          "author": "lovemoneynguyen",
+          "creation_time": 1791298503,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:05:47.543932+00:00"
+    },
+    {
+      "article_id": 5129154,
+      "url": "https://vnexpress.net/chi-dau-thu-hai-bat-anh-toi-va-cac-con-nghe-loi-khong-duoc-y-kien-5129154.html",
+      "title": "Chị dâu thứ hai bắt anh tôi và các con nghe lời, không được ý kiến",
+      "published_at": "2026-10-06T13:42:23+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 16,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 13,
+      "loaded_root_count": 13,
+      "loaded_reply_count": 4,
+      "total_comment_likes": 74,
+      "partial_interaction_score": 78,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677870,
+          "parent_id": 64677870,
+          "content": "Bây giờ chúng tôi không biết phải làm thế nào vì anh quá nhu nhược, các cháu thì khổ.<br />CÁC CHÁU KHỔ THÌ TRẢ VỀ CHO MẸ CÁC CHÁU LO, ANH TRAI EM NHU NHƯỢC THÌ MẶC KỆ CÁI ĐỜI NHU NHƯỢC CỦA NÓ!!!",
+          "author": "hoangthemaster",
+          "creation_time": 1791295138,
+          "likes": 26,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677880,
+          "parent_id": 64677880,
+          "content": "Ngày xưa mình cũng hay xen vào chuyện gia đình của anh chị em. Mình cứ nghĩ người thân của mình bị thiệt thòi xong đứng ra bênh vực giải quyết kết quả là mất tình cảm ae giờ ko ai nhìn mặt nhau luôn. Giờ mình mới nghiệm ra tại sao người trong cuộc ngta chấp nhận được mà mình là người ngoài lại khó chịu. Tại sao anh bạn lại nhu nhược như bạn nói nó đều có lý do cả nên tốt nhất bạn nên im lặng chuyện nhà ai người đó lo ngay cả đó là gia đình anh chị em ruột. Thân gửi",
+          "author": "tuananh.blh1985",
+          "creation_time": 1791295206,
+          "likes": 11,
+          "expected_replies": 2
+        },
+        {
+          "comment_id": 64677975,
+          "parent_id": 64677975,
+          "content": "Bạn chả nhìn ra vấn đề sao.<br />Chị ta nói không có tiền là thật đó, thậm chí còn đang âm nữa kìa. Mà k có tiền thì con của ck ăn rau luộc là điều hoàn toàn logic mà. Sắp tới chúng còn phải đi làm thêm kiếm tiền, và có khả năng gd bạn phải gánh thêm cục nợ cả tỷ nữa chứ k chỉ riêng 250tr đâu. Cục diện đang đi xuống như vậy đó mà",
+          "author": "Sen đá",
+          "creation_time": 1791296285,
+          "likes": 10,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677972,
+          "parent_id": 64677972,
+          "content": "Đèn nhà ai nhà ấy rạng bạn ơi. Dù là anh trai thì mình cũng ko nên xen vào làm gì. Chỉ thấy ko giúp giải quyết được gì mà còn khiến chuyện thêm căng thẳng. Anh bạn nhu nhược thì sẽ lãnh hậu quả, còn 2 cậu con trai kia đã lớn, 1 vài năm nữa cũng trưởng thành rời gia đình làm ăn cả thôi",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791296267,
+          "likes": 8,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64678103,
+          "parent_id": 64678103,
+          "content": "Tôi đoán ko nhầm thì bà vợ thứ 2 này là nguyên nhân anh chị bạn ly hôn đúng ko? Ông ck đúng là nhu nhược thật. Nghe tội 2 cậu con trai.",
+          "author": "Bach Mai",
+          "creation_time": 1791297521,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677934,
+          "parent_id": 64677934,
+          "content": "Có khi cái giá phải trả của anh trai tác giả là ở chỗ này ấy. Giờ khổ nhất là 2 đứa con còn tuổi đi học, vẫn phụ thuộc GĐ. Vk ck anh trai hiện tại ko có con chung à? Ko có thì muốn đi thì tiễn đi chứ, làm gì mà sợ mất vk như này thế. Điều quan trọng là 2 con trai còn ko chăm sóc được, lại đi lo đâu đâu. Ngán! Cuộc sống GĐ anh tác giả thì để họ tự giải quyết, ba mẹ anh em can thiệp lại mất công mệt người.",
+          "author": "Nguyễn Thương",
+          "creation_time": 1791295774,
+          "likes": 4,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64678047,
+          "parent_id": 64678047,
+          "content": "Anh trai em dưới cơ vợ rồi nên không dám thay đổi đâu! vậy nên tập trung mà lo cho bố mẹ đi, bảo bố mẹ không hỗ trợ cho họ nữa nếu được thì bảo họ trả cái nhà tôn kia cho bọn trẻ ra ở riêng tự lo.",
+          "author": "nguyen.vuong80",
+          "creation_time": 1791297030,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678590,
+          "parent_id": 64678590,
+          "content": "Rối tinh rối mù.",
+          "author": "Nguyễn Khánh Tùng",
+          "creation_time": 1791304881,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678071,
+          "parent_id": 64678071,
+          "content": "Phúc ai nấy hưởng<br />Nghiệp ai nấy mang<br />Cuộc sống của họ cứ để họ quyết định.",
+          "author": "Hoà",
+          "creation_time": 1791297240,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678525,
+          "parent_id": 64678525,
+          "content": "Ơ kìa, sao bạn lại can dự vào sinh hoạt riêng tư của gia đình anh trai ? Về mà lo cho tốt chuyện gia đình mình đi. Ai làm sai trái đều có pháp luật xử lý, làm tốt chuyện của mình đi nhé !",
+          "author": "Long Nguyen",
+          "creation_time": 1791303329,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678521,
+          "parent_id": 64678521,
+          "content": "Thấy chị mình ngày đêm cực khỗ đến mức không có thời gian để ăn uống trong khi anh Rễ suốt ngày lông nhông cứ phó hết công việc cho vợ , tôi thấy xót xa nên đánh tiếng với chị nhườn bớt công việc cho ck , nhưng với chị như sự hy sinh đó là hạnh phúc , rốc cuộc 2 chị em giận nhau .<br />Anh chị em kiến giả nhất phận , dẫu xót xa đên cỡ nào cũng đừng như tôi can thiệp quá sâu vào gia đình riêng của người thân",
+          "author": "manhtuann672",
+          "creation_time": 1791303242,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678350,
+          "parent_id": 64678350,
+          "content": "Thời buổi bây giờ mà cơm ăn còn không đủ no thì có lẽ chỉ những GĐ quá mức cùng quẫn mới gặp phải thôi...!!!",
+          "author": "Tô Hòa",
+          "creation_time": 1791300182,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678268,
+          "parent_id": 64678268,
+          "content": "Tôi chỉ thấy tội cho 2 cháu trai, không ấy bạn đem 2 cháu về nuôi hay ông bà nội nuôi rồi bạn phụ một tay vì hai cháu cũng đã lớn, phần còn lại bạn khỏi phải quan tâm làm gì cho thêm rắc rối, anh bạn thấy sống vậy mà hạnh phúc thì thôi bạn cũng không để ý tới làm gì, khi anh bạn chịu hết nổi thì anh bạn có hướng giải quyết, lo gì.",
+          "author": "nguyenviettrung.dn",
+          "creation_time": 1791299227,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677984,
+          "parent_id": 64677880,
+          "content": "Đúng rồi đó bạn. Chỉ ng trong cuộc họ mới biết đó chính là sự thoả hiệp giữa mqh 2 người. Khi nào họ cần giúp đỡ, họ sẽ lên tiếng. Còn than phiền chỉ là để xã stress. Nên lúc độc thân có thân cỡ nào có gd thì để tự xử lí chứ không biết đầu đuôi cỡ nào mà tham dự, vì còn nhìu chưa pit hết",
+          "author": "Sen đá",
+          "creation_time": 1791296403,
+          "likes": 5
+        },
+        {
+          "comment_id": 64678693,
+          "parent_id": 64677880,
+          "content": "Đúng là không nên can thiệp chuyện riêng anh chị, nhưng trường hợp này anh chị muốn bố mẹ tác giả đi vay 250tr để bòi thường thì tg lên tiếng cũng đâu có gì quá đáng. Ngoài ra, dù dì cũng là cháu ruột bị dì ghẻ đối xử như vậy (theo lời kể tg) thì sao ko xót bạn?",
+          "author": "Hoàng A",
+          "creation_time": 1791308275,
+          "likes": 0
+        },
+        {
+          "comment_id": 64677991,
+          "parent_id": 64677972,
+          "content": "Nói vậy chứ thấy anh mình cháu mình có ai không xót.",
+          "author": "Huu AA",
+          "creation_time": 1791296506,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678608,
+          "parent_id": 64677934,
+          "content": "\"Các cháu không chơi bời gì, đi học về là nấu cơm, rửa bát, trông em út còn nhỏ\". Có con chung rồi đây bác Thương ơi. May cho vợ cũ và thương các con của vợ cũ quá!",
+          "author": "ghbvietnam",
+          "creation_time": 1791305552,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:05:55.816280+00:00"
+    },
+    {
+      "article_id": 5129187,
+      "url": "https://vnexpress.net/nga-de-nghi-giup-nguoc-lai-my-ve-dich-benh-5129187.html",
+      "title": "Nga đề nghị giúp ngược lại Mỹ về dịch bệnh",
+      "published_at": "2026-10-06T13:39:48+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 3,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 2,
+      "loaded_root_count": 2,
+      "loaded_reply_count": 2,
+      "total_comment_likes": 36,
+      "partial_interaction_score": 38,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678098,
+          "parent_id": 64678098,
+          "content": "Y tế Mỹ và Nga có lẽ mạnh theo hai hướng khác nhau, Mỹ vượt trội về công nghệ, nghiên cứu và các phương pháp điều trị tiên tiến nhưng chi phí rất đắt; Nga có hệ thống công rộng và chi phí thấp hơn nhưng nguồn lực hạn chế hơn. Nhìn vào tuổi thọ trung bình, Mỹ hiện vẫn cao hơn Nga khá rõ, nên nói Nga có thể hỗ trợ Mỹ trong một lĩnh vực cụ thể không có nghĩa là hệ thống y tế Nga tổng thể vượt Mỹ.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791297491,
+          "likes": 23,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64677969,
+          "parent_id": 64677969,
+          "content": "Từ sau vụ đại dịch Covid thế giới đã rất thận trọng trong việc phòng chống.",
+          "author": "aq12345",
+          "creation_time": 1791296235,
+          "likes": 12,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64678745,
+          "parent_id": 64678098,
+          "content": "Họ cà khịa nhau thôi.",
+          "author": "linhtran179hcm",
+          "creation_time": 1791309690,
+          "likes": 1
+        },
+        {
+          "comment_id": 64678499,
+          "parent_id": 64677969,
+          "content": "Mong kh xảy ra như covid 19",
+          "author": "trangia689",
+          "creation_time": 1791302768,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:00.779278+00:00"
+    },
+    {
+      "article_id": 5128985,
+      "url": "https://vnexpress.net/ngan-hang-chinh-sach-xa-hoi-het-room-cho-vay-nha-o-xa-hoi-nam-nay-5128985.html",
+      "title": "Ngân hàng Chính sách xã hội hết 'room' cho vay nhà ở xã hội năm nay",
+      "published_at": "2026-10-06T13:28:37+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:06:06.957913+00:00"
+    },
+    {
+      "article_id": 5129176,
+      "url": "https://vnexpress.net/da-tam-cua-nguoi-chong-sau-107-000-tin-nhan-voi-tinh-nhan-5129176.html",
+      "title": "Dã tâm của người chồng sau 107.000 tin nhắn với tình nhân",
+      "published_at": "2026-10-06T13:19:46+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 1,
+      "comments_complete": true,
+      "interaction_score": 7,
+      "root_comment_count": 1,
+      "loaded_root_count": 1,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 7,
+      "partial_interaction_score": 7,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677750,
+          "parent_id": 64677750,
+          "content": "quá đau lòng cho 2 đứa trẻ",
+          "author": "khánh ngọc",
+          "creation_time": 1791293435,
+          "likes": 7,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:10.928293+00:00"
+    },
+    {
+      "article_id": 5129186,
+      "url": "https://vnexpress.net/5-nu-doanh-nhan-viet-lot-top-quyen-luc-nhat-chau-a-5129186.html",
+      "title": "5 nữ doanh nhân Việt lọt top quyền lực nhất châu Á",
+      "published_at": "2026-10-06T13:16:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 4,
+      "comments_complete": true,
+      "interaction_score": 15,
+      "root_comment_count": 4,
+      "loaded_root_count": 4,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 15,
+      "partial_interaction_score": 15,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678302,
+          "parent_id": 64678302,
+          "content": "Những con số thứ hạng chỉ là một phần, điều đáng trân trọng hơn là giá trị họ tạo ra cho DN và xã hội, năm nay lại có sự xuất hiện của chị Điệp thật sự quá ấn tượng.",
+          "author": "lev41603",
+          "creation_time": 1791299615,
+          "likes": 11,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678367,
+          "parent_id": 64678367,
+          "content": "Với dân số khoảng 100 triệu và GDP khoảng 500 tỷ USD, mà VN có 5/100 phụ nữ quyền lực nhất châu Á là 1 thanh tích khá mạnh cho thấy VN đang tạo ra những doanh nghiệp và nữ lãnh đạo có sức ảnh hưởng lớn, vượt ra khỏi VN. Dù chưa đạt mức bình đẳng giới của nhiều nước phát triển, Việt Nam là một trong những quốc gia châu Á có mức độ tham gia kinh tế của phụ nữ khá cao, với phụ nữ hiện diện mạnh trong lực lượng lao động, giáo dục và ngày càng nhiều trong các vị trí lãnh đạo doanh nghiệp.",
+          "author": "Robert Nguyen",
+          "creation_time": 1791300576,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678443,
+          "parent_id": 64678443,
+          "content": "Bà Nguyễn Thị Phương Thảo tỷ phú, Chủ tịch Hội đồng quản trị VietJet Air nổi tiếng vậy mà không có mặt nhỉ?",
+          "author": "truongx",
+          "creation_time": 1791301623,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678408,
+          "parent_id": 64678408,
+          "content": "Từ một lãnh đạo trong ngành bán lẻ công nghệ chuyển sang xây dựng một hệ thống bán lẻ dược phẩm quy mô lớn, chúc mừng thành công của chị Nguyễn Bạch Điệp, cột mốc này đáng nhớ đối với FRT.",
+          "author": "anpham07111609",
+          "creation_time": 1791301131,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:14.583508+00:00"
+    },
+    {
+      "article_id": 5129202,
+      "url": "https://vnexpress.net/sinner-som-ket-thuc-mua-giai-2026-5129202.html",
+      "title": "Sinner sớm kết thúc mùa giải 2026",
+      "published_at": "2026-10-06T13:10:24+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 4,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 4,
+      "loaded_root_count": 4,
+      "loaded_reply_count": 1,
+      "total_comment_likes": 28,
+      "partial_interaction_score": 29,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677672,
+          "parent_id": 64677672,
+          "content": "Tưởng Alcaraz đã thảm, có vẻ Sinner còn thảm hơn. Chấn thương cổ tay/đầu gối chắc là loại thảm hoạ nhất trong tennis nói riêng và thể thao nói chung. Kỉ lục 20+ GS của Big3 có vẻ sẽ còn tồn tại lâu nữa.",
+          "author": "lulu.lala993",
+          "creation_time": 1791292588,
+          "likes": 18,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64677683,
+          "parent_id": 64677683,
+          "content": "Một lựa chọn khó khăn nhưng sáng suốt. hi vọng qua năm chú trở lại sẽ mạnh mẽ hơn. thế mới thấy thời Big three nó đỉnh cao thế nào",
+          "author": "nguyen.vuong80",
+          "creation_time": 1791292700,
+          "likes": 7,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677722,
+          "parent_id": 64677722,
+          "content": "Sinner hoặc Alcaraz giống như MC, Các tay vợt mạnh còn lại giống như Mu, Ars, Liv, Chelsea...<br />Việc Sinner nghỉ hết mùa mở đưòng cho Zverev lên đỉnh bảng cũng không khác gì việc MC đang đối mặt với khó khắn sẽ mở đưòng cho Ars VĐ mùa này.",
+          "author": "Hổ giấy MU",
+          "creation_time": 1791293132,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677844,
+          "parent_id": 64677844,
+          "content": "Thế mới thấy Nole vĩ đại cỡ nào. Một ý chí sắt đá.",
+          "author": "hongminhdn",
+          "creation_time": 1791294864,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678679,
+          "parent_id": 64677672,
+          "content": "Cổ tay, Đầu gối và cả Lưng nữa bạn ạ :(<br />Thể lực Thể chất cũng là 1 Năng lực, năng lực rất quan trọng. Nhìn Nole, Messi, CR7 hầu như chẳng bao giờ chấn thương khi còn trẻ...",
+          "author": "Hùng Anh",
+          "creation_time": 1791307922,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:19.347807+00:00"
+    },
+    {
+      "article_id": 5128795,
+      "url": "https://vnexpress.net/phong-cach-doi-thuong-cua-sieu-mau-giau-nhat-trung-quoc-5128795.html",
+      "title": "Phong cách đời thường của siêu mẫu giàu nhất Trung Quốc",
+      "published_at": "2026-10-06T13:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 5,
+      "comments_complete": true,
+      "interaction_score": 31,
+      "root_comment_count": 5,
+      "loaded_root_count": 5,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 31,
+      "partial_interaction_score": 31,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677818,
+          "parent_id": 64677818,
+          "content": "Hình như tiêu chuẩn dáng đẹp của phụ nữ TQ chỉ 30-40kg thôi thì phải, hèn gì bên họ cứ thấy ai bảo đẹp là ý rằng ốm tong teo :|",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791294552,
+          "likes": 16,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677729,
+          "parent_id": 64677729,
+          "content": "Mẫu siêu mỏng hai ảnh cuối còn tạm chứ mấy cái đầu gầy guộc quá",
+          "author": "khanhhuynghiem1416",
+          "creation_time": 1791293200,
+          "likes": 8,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678308,
+          "parent_id": 64678308,
+          "content": "Này siêu gầy đúng hơn siêu mẫu. Thích mấy cô khoẻ khoắn điện nước đầy đủ như Irina Shayk bồ cũ anh 7",
+          "author": "lovemoneynguyen",
+          "creation_time": 1791299698,
+          "likes": 5,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678033,
+          "parent_id": 64678033,
+          "content": "Mắt mình 10/10 các bạn ạ",
+          "author": "Mai Tiến",
+          "creation_time": 1791296910,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677963,
+          "parent_id": 64677963,
+          "content": "Chuẩn gầy này là của siêu mẫu thời trang cao cấp Âu Mỹ, không phải chuẩn đẹp của người Á Đông. Cô ấy làm mẫu cho thị trường này thì phải theo chuẩn đẹp của họ thôi.",
+          "author": "tvl124x",
+          "creation_time": 1791296131,
+          "likes": 1,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:22.412743+00:00"
+    },
+    {
+      "article_id": 5129192,
+      "url": "https://vnexpress.net/vi-sao-tre-khong-nen-dung-chung-luoc-chai-toc-o-lop-5129192.html",
+      "title": "Vì sao trẻ không nên dùng chung lược chải tóc ở lớp?",
+      "published_at": "2026-10-06T13:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:06:25.799830+00:00"
+    },
+    {
+      "article_id": 5129198,
+      "url": "https://vnexpress.net/trung-quoc-bi-lat-do-o-giai-co-tuong-chau-a-5129198.html",
+      "title": "Trung Quốc bị lật đổ ở giải cờ tướng châu Á",
+      "published_at": "2026-10-06T12:57:21+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 2,
+      "comments_complete": true,
+      "interaction_score": 1,
+      "root_comment_count": 2,
+      "loaded_root_count": 2,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 1,
+      "partial_interaction_score": 1,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64678406,
+          "parent_id": 64678406,
+          "content": "Tiếc cho anh Huynh đồng điểm với Vương Vũ Bác và Phùng Gia Tuấn nhưng thua chỉ số phụ (thua Tuấn chỉ 1đ chỉ số phụ) nên không vô CK.<br />Giải đấu này 2 kì thủ VN thi đấu tốt nhưng thiếu chút may mắn. (Đàm Thị Thùy Dung cũng thu chỉ số phụ sau lượt áp chót như Huynh nên không vô CK tranh vô địch y vậy luôn).",
+          "author": "reea44073",
+          "creation_time": 1791301103,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678467,
+          "parent_id": 64678467,
+          "content": "Trung Quốc vốn rất mạnh về cờ tướng, nên việc bị lật đổ ở giải châu Á cho thấy các nước khác đang ngày càng thu hẹp khoảng cách. Liệu đây chỉ là bất ngờ nhất thời hay cờ tướng các nước đã thực sự tiến bộ?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791302084,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:28.943040+00:00"
+    },
+    {
+      "article_id": 5129162,
+      "url": "https://vnexpress.net/thanh-pho-nao-giau-co-nhat-the-gioi-5129162.html",
+      "title": "Thành phố nào giàu có nhất thế giới?",
+      "published_at": "2026-10-06T12:48:51+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 3,
+      "comments_complete": true,
+      "interaction_score": 2,
+      "root_comment_count": 3,
+      "loaded_root_count": 3,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 2,
+      "partial_interaction_score": 2,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677720,
+          "parent_id": 64677720,
+          "content": "Không phải là New York ư?",
+          "author": "T.Thơ",
+          "creation_time": 1791293116,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678579,
+          "parent_id": 64678579,
+          "content": "Nhiều vk mỹ hay chém gió mỹ dễ mua nhà chả qua là đi mua nhà tỉnh lẻ, nông thôn. VN mà về quê, tỉnh mua thì cũng rẻ rề như tây nguyên, tây bắc, cà mau. Ở mỹ mà làm nail hay lao động tay chân lương 5000-6000 đô/ tháng đi nữa cũng chẳng mua nổi nhà ở 3 thành phố trên, những nơi này nhà 1 triệu đô nhìn sốc luôn vì nhìn quá chán chứ ko hề sang chảnh như biệt thự triệu đô ở VN, new york còn có căn chung cư triệu đô mà ko có thang máy, mỗi lần về là leo bộ 5-6 tầng lầu. Ở VN người lao động còn nghĩ tới chuyện mua được nhà phố lớn nghĩa là còn có khả năng mua chứ châu âu hay mỹ mà thành phố lớn thì phần đông từ bỏ giấc mơ mua nhà lâu rồi: https://vnexpress.net/cuoc-song-o-noi-dat-do-nhat-nuoc-my-3892011.html",
+          "author": "Lê Tùng",
+          "creation_time": 1791304671,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678563,
+          "parent_id": 64678563,
+          "content": "Trả lời đúng 4/4 câu.",
+          "author": "benjamin20231997",
+          "creation_time": 1791304266,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:32.389448+00:00"
+    },
+    {
+      "article_id": 5128821,
+      "url": "https://vnexpress.net/cuoc-song-cua-nu-moi-gioi-my-bi-cao-buoc-lam-gian-diep-cho-trung-quoc-5128821.html",
+      "title": "Cuộc sống của nữ môi giới Mỹ bị cáo buộc làm gián điệp cho Trung Quốc",
+      "published_at": "2026-10-06T12:24:07+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 2,
+      "comments_complete": true,
+      "interaction_score": 34,
+      "root_comment_count": 2,
+      "loaded_root_count": 2,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 34,
+      "partial_interaction_score": 34,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677383,
+          "parent_id": 64677383,
+          "content": "Sang chảnh, xa xỉ và xa hoa. Nhưng đằng sau đó thì...",
+          "author": "lmhoang45",
+          "creation_time": 1791289727,
+          "likes": 29,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678732,
+          "parent_id": 64678732,
+          "content": "Nhìn ảnh em gái thế này, tôi tin fbi có sự nhầm lẫn",
+          "author": "matthieuchatton",
+          "creation_time": 1791309354,
+          "likes": 5,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:35.965808+00:00"
+    },
+    {
+      "article_id": 5129057,
+      "url": "https://vnexpress.net/chuyen-di-lac-theo-google-maps-cua-du-khach-anh-o-quang-ngai-5129057.html",
+      "title": "Chuyến đi lạc theo Google Maps của du khách Anh ở Quảng Ngãi",
+      "published_at": "2026-10-06T12:06:21+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 10,
+      "comments_complete": true,
+      "interaction_score": 61,
+      "root_comment_count": 10,
+      "loaded_root_count": 10,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 61,
+      "partial_interaction_score": 61,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677366,
+          "parent_id": 64677366,
+          "content": "Chị Google map về quê tôi thì chỉ có khóc thét :')",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791289508,
+          "likes": 21,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677349,
+          "parent_id": 64677349,
+          "content": "Nụ cười của hai chiến sĩ Cảnh sát thật ấm lòng! Đối với bạn Barry thì đây cũng là một trải nghiệm thú vị mà?! Theo mình nghi ngờ lạc vào đường xấu thì hãy chọn Google Map di chuyển bằng ô tô, tất nhiên cần lưu ý kẻo lạc vào cao tốc cấm xe gắn máy.",
+          "author": "Song Xà",
+          "creation_time": 1791289385,
+          "likes": 16,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677600,
+          "parent_id": 64677600,
+          "content": "Hôm trược chi Gồ cũng chỉ cho tôi vào một con đường cụt và k thể quay đầu xe. Oải thật sự",
+          "author": "thucnx",
+          "creation_time": 1791291864,
+          "likes": 10,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677618,
+          "parent_id": 64677618,
+          "content": "Tôi đi quận 9 cũ google map còn chỉ đi lạc nói gì lên núi",
+          "author": "Chip co don3",
+          "creation_time": 1791292002,
+          "likes": 8,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677578,
+          "parent_id": 64677578,
+          "content": "Giáp ranh giữa Bình Định và Quảng Ngãi thì có thể là đi lên Ba Tơ luôn nhỉ kkk.",
+          "author": "Yusaku",
+          "creation_time": 1791291675,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677640,
+          "parent_id": 64677640,
+          "content": "Nhiều du khách nước ngoài có thói quen phụ thuộc hoàn toàn vào ứng dụng chỉ đường mà quên mất các kĩ năng du lịch cơ bản. Việc đi xe máy ở địa hình lạ mà chỉ nhìn theo vạch xanh trên màn hình cực kỳ mạo hiểm, nhất là khi di chuyển vào buổi tối hoặc khu vực mất sóng.<br />&nbsp;",
+          "author": "Bình thường thôi",
+          "creation_time": 1791292254,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678249,
+          "parent_id": 64678249,
+          "content": "Theo chỉ đường của Google map chỉ cần ta không may bỏ qua một ngả rẽ là rất khó đi. Nên tôi,mỗi khi cần đến điểm nào trong thành phố tôi thường xem Google map trước khi khởi hành và tự ghi nhớ các tuyến đường và định hướng rồi tự đi,khi nào cần thì mở ra xem lại thôi.",
+          "author": "Luc Nguyen",
+          "creation_time": 1791298913,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678094,
+          "parent_id": 64678094,
+          "content": "Đã nhiều lần đi mà kinh nghiệm còn non quá, thứ 1, bắt buộc đi vỏ không ruột + thủ bộ đồ nghề vá xe + bơm điện. Thứ 2, trừ mấy dân chơi thích chơi xe, còn đi phượt ưu tiên xe nhỏ dưới 175, hiện tại các dòng xe mới 155 bây giờ đã quá dư sức mạnh để leo đèo ở VN, vác xe lớn đi 1 mình mà không có team hậu cần sửa xe đi theo là quá tệ.",
+          "author": "nguyengiaman2905",
+          "creation_time": 1791297440,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677803,
+          "parent_id": 64677803,
+          "content": "Dẫn chiếc xe 200kg trong 3 tiếng. Nghe xong mới tá hỏa về thực tế như thế nào. Ông Barry quá khỏe mới dám du lịch kiểu đó.",
+          "author": "pangebox2",
+          "creation_time": 1791294293,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677800,
+          "parent_id": 64677800,
+          "content": "Hiếu khách và tốt bụng thì còn nước nào qua nước ta nhỉ ?",
+          "author": "José_Mourinho",
+          "creation_time": 1791294255,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:41.228019+00:00"
+    },
+    {
+      "article_id": 5129168,
+      "url": "https://vnexpress.net/gan-6-tan-ca-phe-duoc-chuyen-bang-uav-xuong-nui-5129168.html",
+      "title": "Gần 6 tấn cà phê được chuyển bằng UAV xuống núi",
+      "published_at": "2026-10-06T12:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 9,
+      "comments_complete": true,
+      "interaction_score": 13,
+      "root_comment_count": 6,
+      "loaded_root_count": 6,
+      "loaded_reply_count": 3,
+      "total_comment_likes": 10,
+      "partial_interaction_score": 13,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677429,
+          "parent_id": 64677429,
+          "content": "Nhìn sợi dây mà UAV dùng để treo cả bao hàng thấy khá mỏng, không biết loại dây này được làm bằng vật liệu gì và chịu tải tối đa bao nhiêu kg? Với hàng chục kg mỗi chuyến thì chắc không thể là dây thông thường được.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791290212,
+          "likes": 6,
+          "expected_replies": 3
+        },
+        {
+          "comment_id": 64677405,
+          "parent_id": 64677405,
+          "content": "Tuyệt vời. Có tham vọng người Việt điều làm được hết.",
+          "author": "Gia Huy",
+          "creation_time": 1791289988,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678440,
+          "parent_id": 64678440,
+          "content": "Cần có chính sách xếp hạng và bảo hộ (vốn, vật tư, nghiên cứu...) cho các hợp tác xã đạt tiêu chí, loại bỏ ưu đãi với các hộ và tổ chức kém chất lượng. Mở rộng các trường đào tạo nghề chăn, nuôi trồng trọt, chế biến nông lâm thủy sản để tuyển nhân lực chất lượng cao cho các hợp tác xã đạt chất lượng chứ không thể để làm ăn tùy tiện như hiện nay, tốn kém kém hiệu quả.",
+          "author": "Trịnh Viết Quân",
+          "creation_time": 1791301557,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677967,
+          "parent_id": 64677967,
+          "content": "Rất thiết thực!<br />Tôi đã từng đi Hà Giang, thấy bà con dùng xe 2 bánh để thồ người và hàng lên núi rất là vất vả và nguy hiểm. Khi đó nghĩ trong đầu.. vì sao ko làm cáp treo cho bà con vận chuyển hàng hóa... nhưng bầy giờ UAV là một giải pháp khả thi và linh động hơn nhiều.",
+          "author": "dungcoxao",
+          "creation_time": 1791296178,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677679,
+          "parent_id": 64677679,
+          "content": "Cần đánh giá xác suất rủi ro tai nạn!",
+          "author": "nghoanglongpt",
+          "creation_time": 1791292663,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677587,
+          "parent_id": 64677587,
+          "content": "Làm gì thì làm thì tính kinh tế là trên hết. Không thấy phân tích chi phí logicstic giữa việc sửa dụng UAV và truyền thống nhỉ. ",
+          "author": "nguyentienquang4311",
+          "creation_time": 1791291729,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677535,
+          "parent_id": 64677429,
+          "content": "Chắc chắn là dây chuyên dụng. Họ làm thì đã tính cả rồi. Tôi chỉ thắc mắc sao để dây dài vậy",
+          "author": "ventsfurin",
+          "creation_time": 1791291228,
+          "likes": 0
+        },
+        {
+          "comment_id": 64677788,
+          "parent_id": 64677429,
+          "content": "Dây chỉ bò hoặc cùng lắm là dây cước câu cá thôi bạn. Xa vậy mà bạn còn nhìn rõ sợi dây nên nó phải to cỡ cổ tay bạn đấy! 50kg chứ có phải 500kg đâu, UAV kỹ sư còn thiết kế được thì việc tính toán sợi dây có mức tải trọng an toàn là bao kg có khó khăn gì đâu!",
+          "author": "Nguyễn Cường Quân",
+          "creation_time": 1791293953,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678212,
+          "parent_id": 64677429,
+          "content": "Dây cáp giống trong máy tời cỡ 4-5mm là dư để tải 50kg",
+          "author": "Aung Thu",
+          "creation_time": 1791298509,
+          "likes": 1
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:45.646022+00:00"
+    },
+    {
+      "article_id": 5128899,
+      "url": "https://vnexpress.net/han-quoc-boi-thu-nho-khach-trung-vung-tien-mua-sam-5128899.html",
+      "title": "Hàn Quốc 'bội thu' nhờ khách Trung vung tiền mua sắm",
+      "published_at": "2026-10-06T12:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 2,
+      "comments_complete": true,
+      "interaction_score": 1,
+      "root_comment_count": 2,
+      "loaded_root_count": 2,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 1,
+      "partial_interaction_score": 1,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677520,
+          "parent_id": 64677520,
+          "content": "Khi đi vali trống, khi về tay xách nách mang.",
+          "author": "T.Thơ",
+          "creation_time": 1791291040,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678598,
+          "parent_id": 64678598,
+          "content": "Dân TQ chịu chi thật.",
+          "author": "Nguyễn Khánh Tùng",
+          "creation_time": 1791305106,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:06:48.711716+00:00"
+    },
+    {
+      "article_id": 5129151,
+      "url": "https://vnexpress.net/houthi-tuyen-bo-van-tru-vung-tai-lanh-tho-moi-kiem-soat-5129151.html",
+      "title": "Houthi tuyên bố vẫn trụ vững tại lãnh thổ mới kiểm soát",
+      "published_at": "2026-10-06T11:53:40+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:06:53.011197+00:00"
+    },
+    {
+      "article_id": 5129157,
+      "url": "https://vnexpress.net/bo-tai-chinh-yeu-cau-lam-ro-go-mao-danh-lap-doanh-nghiep-mat-vai-nam-5129157.html",
+      "title": "Bộ Tài chính yêu cầu làm rõ 'gỡ mạo danh lập doanh nghiệp mất vài năm'",
+      "published_at": "2026-10-06T11:34:46+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 11,
+      "comments_complete": true,
+      "interaction_score": 25,
+      "root_comment_count": 5,
+      "loaded_root_count": 5,
+      "loaded_reply_count": 6,
+      "total_comment_likes": 19,
+      "partial_interaction_score": 25,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677146,
+          "parent_id": 64677146,
+          "content": "Có CCCD làm MST thì việc này quá dễ rồi ! Lọc quá nhanh và quá dễ làm sao phải 3 - 4 năm ?",
+          "author": "nhlonghdu",
+          "creation_time": 1791287435,
+          "likes": 9,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677217,
+          "parent_id": 64677217,
+          "content": "Không hiểu những người mạo danh người khác để lập doanh nghiệp nhằm mục đích gì? Nếu chỉ để đứng tên một công ty “ảo” thì sau này xử lý thuế, hồ sơ, giải thể chẳng phải càng rắc rối sao?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791288168,
+          "likes": 4,
+          "expected_replies": 6
+        },
+        {
+          "comment_id": 64677616,
+          "parent_id": 64677616,
+          "content": "Các DN chưa phát sinh doanh thu mà không nộp tờ khai thuế trong vòng 06 tháng thì cơ quan chức năng tự thu hồi giấy phép đi?",
+          "author": "nguyenxuannam21",
+          "creation_time": 1791291996,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678075,
+          "parent_id": 64678075,
+          "content": "Theo ý kiến của tôi thì cần gửi thông tin tới công an phường nơi cty đó đặt trụ sở sau vài ngày cấp giấy phép kinh doanh, công an phường tới cty xác nhận địa chỉ, xác nhận CCCD đúng người đã đăng ký, ko đúng thì lập biên bản, buộc người đứng tên kinh doanh phải ra chỗ đăng ký chứng minh đúng người đúng CCCD đã đăng ký, ko tới thì sau bao nhiêu ngày cơ quan nhà nước ra quyết định thu lại giấy phép kinh doanh. Đồng thời lúc cấp giấy phép kinh doanh cần xác nhận số CCCD của người đi đăng ký và nộp hồ sơ thành lập công ty (không phải người đứng tên cty - người mà bị lấy thông tin CCCD chắc chắn sẽ không biết tới để lấy giấy tờ) để truy ngược lại ai đã có hành vi ăn cắp và sử dụng thông tin cá nhân trái phép và truy thu lại nợ thuế nếu có.<br />Một vấn đề nếu làm theo như trên thì cò hay nhân viên xin giấy phép kinh doanh sẽ bị vạ lây nhưng đó là trách nhiệm của họ khi làm dịch vụ phải xác nhận đúng người đúng giấy tờ, ko xác nhận đúng thông tin mà tiếp tay cho hành vi khai báo gian lận này thì bị bắt và xử lý theo pháp luật là thích đáng.",
+          "author": "Duc Thuan Pham",
+          "creation_time": 1791297275,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678028,
+          "parent_id": 64678028,
+          "content": "Cứ nói thẳng: không thể có chuyện mạo danh người khác lập doanh nghiệp dễ dàng đến thế. Bởi người mạo danh lập doanh nghiệp làm gì có giấy tờ gốc của người bị mạo danh?<br />Vậy mà khi có phản ánh (của người bị mạo danh và có giấy tờ gốc) mà còn để lâu thì chẳng hiểu vướng mắc chuyện gì?",
+          "author": "Transparency Tâm",
+          "creation_time": 1791296844,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677348,
+          "parent_id": 64677217,
+          "content": "Rắc rối cho người bị mạo danh chứ người vi phạm làm gì có rắc rối nào.",
+          "author": "hiepsy",
+          "creation_time": 1791289371,
+          "likes": 1
+        },
+        {
+          "comment_id": 64677403,
+          "parent_id": 64677217,
+          "content": "mạo danh để làm gì hả ?? bạn ngây thơ quá",
+          "author": "ctramle",
+          "creation_time": 1791289938,
+          "likes": 2
+        },
+        {
+          "comment_id": 64677540,
+          "parent_id": 64677217,
+          "content": "câu hỏi cũng là câu trả lời rồi còn gì nữa.",
+          "author": "mr.hy125",
+          "creation_time": 1791291253,
+          "likes": 0
+        },
+        {
+          "comment_id": 64677585,
+          "parent_id": 64677217,
+          "content": "Khi mạo danh thì các giao dịch của họ sẽ không bị phát hiện vì đứng trên danh nghĩa người khác chứ sao",
+          "author": "tt7011323",
+          "creation_time": 1791291696,
+          "likes": 0
+        },
+        {
+          "comment_id": 64677609,
+          "parent_id": 64677217,
+          "content": "Họ lập lên với nhiều mục đích không tốt, ví dụ mua bán hóa đơn bất hợp pháp, hoặc kinh doanh 1 thời gian nhưng không nộp thuế rồi bỏ đấy. Họ lấy tên người khác làm chủ doanh nghiệp nên không bị ảnh hưởng. Rất nhiều người vì 1 lí do nào đó bị mất giấy tờ cá nhân (hầu hết là CMND cũ) vào tay kẻ xấu dẫn đến bị lợi dụng, đặc biệt là nhiều bạn trẻ do cần tiền đã cầm cố cả giấy tờ cá nhân.",
+          "author": "minh.phamvu1987",
+          "creation_time": 1791291960,
+          "likes": 1
+        },
+        {
+          "comment_id": 64677927,
+          "parent_id": 64677217,
+          "content": "Cty ma lập ra để làm việc trái pháp luật, kinh doanh hóa đơn khống... thì mạo danh người khác không phải là 1 biện pháp để trốn tránh pháp luật sao?",
+          "author": "Duc Thuan Pham",
+          "creation_time": 1791295704,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:07:01.709280+00:00"
+    },
+    {
+      "article_id": 5129022,
+      "url": "https://vnexpress.net/gian-khoan-rach-xuyen-tam-do-gay-ket-xe-duong-kenh-nhieu-loc-5129022.html",
+      "title": "Giàn khoan rạch Xuyên Tâm đổ gây kẹt xe đường kênh Nhiêu Lộc",
+      "published_at": "2026-10-06T11:23:40+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 51,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 36,
+      "loaded_root_count": 36,
+      "loaded_reply_count": 16,
+      "total_comment_likes": 548,
+      "partial_interaction_score": 564,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677231,
+          "parent_id": 64677231,
+          "content": "Nó đổ vô nhà dân thì ôi thôi, đề nghị thẩm định lại năng lực trang thiết bị của nhà thầu yếu này, tránh các hiểm họa trong tương lai.",
+          "author": "Họ và tên",
+          "creation_time": 1791288333,
+          "likes": 129,
+          "expected_replies": 2
+        },
+        {
+          "comment_id": 64677126,
+          "parent_id": 64677126,
+          "content": "Quá may mười mấy tấn cao 10m mà đổ xuống kg trúng ai tại khu đường nhiều xe qua lại ....",
+          "author": "HT (king.pacific74)",
+          "creation_time": 1791287201,
+          "likes": 71,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677121,
+          "parent_id": 64677121,
+          "content": "Rất nguy hiểm và cũng rất may mắn không gây hậu quả. Nên giám định lại nhà thầu này.",
+          "author": "lê bình",
+          "creation_time": 1791287140,
+          "likes": 59,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677341,
+          "parent_id": 64677341,
+          "content": "Ý là chưa thi công đó các bạn, lúc thi công tải nặng mà máy móc rệu rã như vầy thì hậu quả còn tới đâu nữa?",
+          "author": "Họ và tên",
+          "creation_time": 1791289261,
+          "likes": 51,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677151,
+          "parent_id": 64677151,
+          "content": "Không biết khi bố trí giàn khoan sát đường như vậy, đơn vị thi công đã tính đến tình huống máy móc mất cân bằng hoặc đổ về phía người dân đang lưu thông chưa? Để sát rạt đường đi vậỵ nguy hiểm quá",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791287504,
+          "likes": 32,
+          "expected_replies": 13
+        },
+        {
+          "comment_id": 64677191,
+          "parent_id": 64677191,
+          "content": "Rất may mắn, cả dãy nhà san sát không rơi trúng, mà rơi đúng ngay con hẻm. Nếu không có thể gây sập nhà.",
+          "author": "Hoàng Chiến",
+          "creation_time": 1791287952,
+          "likes": 26,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677695,
+          "parent_id": 64677695,
+          "content": "Thiết bị phục vụ công trình hàng ngàn tỷ mà nhìn như đống sắt phế liệu. Chả biết dự án này làm những gì mà giá đến 2,5 tỷ/m.",
+          "author": "Duyr",
+          "creation_time": 1791292820,
+          "likes": 13,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677608,
+          "parent_id": 64677608,
+          "content": "“ Cầu thả “ đó là 2 chữ tôi dành cho những nhà thầu đa số tại VN nói riêng và người VN nói chung. Người VN chúng ta đa số thái độ làm việc rất xuề xoà và cẩu thả , cứ cái kiểu “ như vậy là được rồi “ , làm việc không tự giác, thiếu nghiêm túc không chuyên nghiệp đã hình thành quá lâu trong tâm trí của rất nhiều người VN chúng ta , thật là buồn phiền phải không ạ ???",
+          "author": "htchien69",
+          "creation_time": 1791291954,
+          "likes": 10,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677342,
+          "parent_id": 64677342,
+          "content": "VN chuyện j cũng xảy ra. Đi làm mệt muốn về nhà nhanh chóng mà gặp cảnh kẹt xe kiểu này phát ngán , đường phố ko bị ngập thì bị kẹt xe triền miên.",
+          "author": "kimhuynh.2305",
+          "creation_time": 1791289318,
+          "likes": 10,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64677251,
+          "parent_id": 64677251,
+          "content": "Nhìn thiết bị quá cũ và lạc hậu , nên có quy định niên hạn sử dụng của các thiết bị thi công công trình này, để đảm bảo an toàn",
+          "author": "phan nguyen",
+          "creation_time": 1791288506,
+          "likes": 10,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677882,
+          "parent_id": 64677882,
+          "content": "Xe cũ kỹ, rỉ sét nhưng vẫn đưa vào thi công, không đảm bảo an toàn thi công thì phạt và đình chỉ nhà thầu luôn đi chứ",
+          "author": "minhtung2590",
+          "creation_time": 1791295214,
+          "likes": 9,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678134,
+          "parent_id": 64678134,
+          "content": "Công trình hàng ngàn tỷ đồng mà nhìn thiết bị khoan cũ kỹ phát ớn. Nếu có thiết bị tốt, còn mới dàn khoan sẽ đặt trên bệ phản áp trên nền đất đắp an toàn hơn, ổn định hơn không phải đổ vật ra đường. May mà không trúng ai gây chết người.",
+          "author": "nguyenthoai6211",
+          "creation_time": 1791297918,
+          "likes": 8,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677636,
+          "parent_id": 64677636,
+          "content": "Phải phạt thật nặng nhà thầu này vì gây nguy hiểm cho người dân. Bên cạnh đó làm trễ giờ, chậm việc của biết bao nhiêu người, thử tưởng tượng xe cứu thương /cứu hỏa bị kẹt do nhà thầu này gây ra thì hậu quả nghiêm trọng như thế nào. Nhà thầu vừa yếu kém vừa ẩu thiếu trách nhiệm.",
+          "author": "nguyenthuymoc1989",
+          "creation_time": 1791292224,
+          "likes": 7,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677874,
+          "parent_id": 64677874,
+          "content": "Nhìn trục cẩu rỉ sét thấy thương luôn!",
+          "author": "aq12345",
+          "creation_time": 1791295158,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677861,
+          "parent_id": 64677861,
+          "content": "Ko nói vấn đề trách nhiệm các bên liên quan nhỉ?<br />cá nhân thấy đây là 1 vụ tai nạn nguy hiểm cần làm rõ trách nhiệm và xử lý ( cá nhân, tập thể) nếu có..<br />May mà nó ko đổ vào nhà, lai càng may ko phải giờ cao điểm như mấy hình dưới ....nếu ko thì có lẽ chỉ 1 cá nhân, mà nhiều người sẽ dc mời đi uống trà đấy!",
+          "author": "gacib.oark",
+          "creation_time": 1791295036,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677096,
+          "parent_id": 64677096,
+          "content": "Quá nguy hiểm khi vật này đổ xuống phố.",
+          "author": "Song Xà",
+          "creation_time": 1791286844,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677714,
+          "parent_id": 64677714,
+          "content": "Thật may mắn là giàn sắt cao như vậy lại ngã đổ ngay đúng con hẻm",
+          "author": "hamatkoya",
+          "creation_time": 1791293054,
+          "likes": 5,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677240,
+          "parent_id": 64677240,
+          "content": "Máy móc quá cũ. Thực trạng chung của các máy thi công ở VN, đa phần là mua máy qua sử dụng của Nhật/ Hàn về xài tiếp. May mắn lúc ngã không có người phía dưới đường. Cần nghiêm túc xử lý và có trách nhiệm bồi thường. Kẹt xe mọi người về trễ, người không kịp công việc đã cam kết, ai chịu trách nhiệm bồi thường?",
+          "author": "Le Khoa",
+          "creation_time": 1791288415,
+          "likes": 5,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677286,
+          "parent_id": 64677286,
+          "content": "Ngay đường cmt8 cũng vậy, cực kì nguy hiểm",
+          "author": "tonystappp",
+          "creation_time": 1791288756,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677152,
+          "parent_id": 64677152,
+          "content": "Sự cố ngay giờ cao điểm. Cũng may là trời không mưa chứ không còn kẹt xe hơn nữa.",
+          "author": "HHuy",
+          "creation_time": 1791287543,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677117,
+          "parent_id": 64677117,
+          "content": "Quá may mắn không có ai bị thương vong. Đó giờ mới thấy dàn trục này gãy, ghê thật.",
+          "author": "truongquocnam060",
+          "creation_time": 1791287100,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677814,
+          "parent_id": 64677814,
+          "content": "Thấy cái dàn khoan là tui tránh xa rồi.",
+          "author": "nguyenpham123zzz",
+          "creation_time": 1791294464,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677326,
+          "parent_id": 64677326,
+          "content": "May mắn, cho mn! May mắn vì biết nguyên nhân! Tưởng tại gió, cơ!",
+          "author": "phongvan",
+          "creation_time": 1791289125,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677234,
+          "parent_id": 64677234,
+          "content": "PA thi công không bảo đảm và chỉ huy trưởng công trình, công nhân vận hành non kinh nghiệm mới vậy. Thiết bị thì rỉ sét củ mèm chứng tỏ khâu bảo trì, bảo dưỡng kém. Giám sát công trình thi công ở đâu?<br />Rất may chưa nghe thông tin có người chết",
+          "author": "truonghungdung2312",
+          "creation_time": 1791288348,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677389,
+          "parent_id": 64677389,
+          "content": "Đi đường hoàng sa ko có đèn xanh đỏ nên ko bao giờ kẹt xe",
+          "author": "Hùng Phương",
+          "creation_time": 1791289778,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677135,
+          "parent_id": 64677135,
+          "content": "Nói gì nhỉ!!! Thôi không nói gì nữa!!! Ngán ngẫm!!!!!",
+          "author": "anhho2015",
+          "creation_time": 1791287312,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678663,
+          "parent_id": 64678663,
+          "content": "Nên kiểm tra trách nhiệm nhà thầu",
+          "author": "kiet.tva",
+          "creation_time": 1791307064,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678623,
+          "parent_id": 64678623,
+          "content": "Không có đảm bảo an toàn lao động thì phải xử lý nghiêm.",
+          "author": "conglymienphi",
+          "creation_time": 1791306060,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678496,
+          "parent_id": 64678496,
+          "content": "Phải phạt thật nặng nhà Thầu. May mắn là không có thương vong, nhưng đây là công trình trọng điểm mà thi công không an toàn.",
+          "author": "phu.casablanca99",
+          "creation_time": 1791302737,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678381,
+          "parent_id": 64678381,
+          "content": "Tui đây hay đi qua mấy con đường dọc rạch Xuyên Tâm, thiệt cũng biết làm bờ kè là dân đỡ vất vả nhưng quá trình thi công buộc phải an toàn. Nhiều khi muốn góp ý nhà thầu để nguyên vật liệu bừa bộn, làm không có gọn gàng lối đi nhưng ngại bị nói là đòi hỏi. Đường đang đào cống lấp tạm lại thì cũng nên lấp cho bằng phẳng, nhiều cái hố lấp tạm tui biết trời mưa lọt xuống là té xe gây tai nạn chắc luôn. Tui có kinh nghiệm vận hành nhà máy sản xuất: nói thiệt nếu băng chuyền mà nguyên vật liệu, công cụ để bừa bộn, không ngăn nắp là dễ xảy ra tai nạn lao động hay hư hỏng sản phẩm. Từ đó, nhìn rộng ra thì việc thi công trên công trường cũng vậy thôi. Mà theo các khóa học hàng năm tập huấn về an toàn lao động thì việc quản lý công cụ, dụng cụ, kiểm tra an toàn trước khi làm việc và dọn gọn gàng sạch sẽ sau khi hết ca là yêu cầu hàng đầu rồi, khỏi tranh cãi gì hết.",
+          "author": "Plutino",
+          "creation_time": 1791300742,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678368,
+          "parent_id": 64678368,
+          "content": "Ai sẽ chịu trách nhiệm ? Năng lực nhà thầu và trách nhiệm kiểm định ở đâu ?",
+          "author": "binderaptcom4",
+          "creation_time": 1791300580,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678335,
+          "parent_id": 64678335,
+          "content": "Phải nói là cực kỳ may mắn khi không đổ vào nhà dân, đề nghị kiểm tra lại năng lực nhà thầu thi công, chất lượng trang thiết bị kiểu này mà cũng đưa vào thi công cho các công trình quan trọng của thành phố thì chỉ biết lắc đầu",
+          "author": "Nguyễn Ngọc Linh",
+          "creation_time": 1791300021,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678264,
+          "parent_id": 64678264,
+          "content": "Tối nay đường Nguyễn Hữu Cảnh cũng kẹt xe cứng ngắc.",
+          "author": "nguyenduchuy9154",
+          "creation_time": 1791299197,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678201,
+          "parent_id": 64678201,
+          "content": "Quá may mắn cho căn nhà đối diện, phải có hình phạt bộ phận thi công khu vực này.",
+          "author": "Sondhcn",
+          "creation_time": 1791298424,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677305,
+          "parent_id": 64677305,
+          "content": "Những vấn đề này nên cần điều tra, xử lý",
+          "author": "hienpanadol2",
+          "creation_time": 1791288880,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677020,
+          "parent_id": 64677020,
+          "content": "Rất may mắn là đã đổ vào đúng con hẻm, chứ vào nhà dân không biết thiệt hại sẽ thế nào.",
+          "author": "Francis",
+          "creation_time": 1791286120,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677620,
+          "parent_id": 64677231,
+          "content": "Quá cẩu thả yếu kém đề nghị thay ngay",
+          "author": "NTH",
+          "creation_time": 1791292010,
+          "likes": 13
+        },
+        {
+          "comment_id": 64678553,
+          "parent_id": 64677231,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1072540437\">@NTH</span>:&nbsp;Chưa tính đến việc lỡ lúc đó đang giờ tan tầm xe chạy qua lại nườm nượp thì chết người như chơi, kể cả ngồi trong xe hơi cũng không an toàn. Đề nghị cơ quan chức năng xứ lý đến nơi đến chốn vụ này, nhà thầu không đủ năng lực thì cần dứt khoát thay thế, tránh hiểm họa cho dân! Sau vụ này chắc chắn những nhà dân xung quanh sẽ mất ăn mất ngủ không biết tai họa ập đến lúc nào!.",
+          "author": "Họ và tên",
+          "creation_time": 1791303913,
+          "likes": 3
+        },
+        {
+          "comment_id": 64677175,
+          "parent_id": 64677151,
+          "content": "Vậy nên để ở đâu khi chiều cao của nó hơn 10m?",
+          "author": "dmttuan",
+          "creation_time": 1791287747,
+          "likes": 3
+        },
+        {
+          "comment_id": 64677233,
+          "parent_id": 64677151,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1032645509\">@dmttuan</span>:&nbsp;Không phải cứ cao hơn 10 m thì mặc nhiên phải đặt sát đường. Cao hơn 10 m mà lại sát đường thì đã tính đủ bán kính nguy hiểm và phương án bảo vệ người đi đường chưa. Thi công trong đô thị thì an toàn phải tính cả trường hợp xấu nhất, chứ không chỉ tính lúc máy đang đứng yên.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791288340,
+          "likes": 19
+        },
+        {
+          "comment_id": 64677267,
+          "parent_id": 64677151,
+          "content": "Khoan ở đâu thì đặt ở đó chứ làm sao khác được?",
+          "author": "Lý Nghịch",
+          "creation_time": 1791288650,
+          "likes": 7
+        },
+        {
+          "comment_id": 64677321,
+          "parent_id": 64677151,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1050221751\">@Là Huyền đây!!!!</span>:&nbsp;Chắc là chú muốn đặt giàn khoan ngay giữa lòng con kênh, phải vậy hôn?",
+          "author": "L.H.",
+          "creation_time": 1791289084,
+          "likes": 2
+        },
+        {
+          "comment_id": 64677419,
+          "parent_id": 64677151,
+          "content": "Đường dọc sát kênh, theo bạn thì nên đặt giàn khoan ở đâu? Đừng nói là mang giàn khoan sà lan vào kênh nha!",
+          "author": "TRÍ",
+          "creation_time": 1791290142,
+          "likes": 4
+        },
+        {
+          "comment_id": 64677525,
+          "parent_id": 64677151,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1118242237\">@TRÍ</span>:&nbsp;Đúng là mặt bằng ở đó có hạn, chứ tôi cũng đâu nói phải mang xuống kênh. Ý tôi là nếu buộc phải đặt sát đường thì phải có phương án rào chắn, gia cố và phân luồng đủ an toàn, nhất là với một thiết bị cao và nặng như vậy.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791291129,
+          "likes": 5
+        },
+        {
+          "comment_id": 64677835,
+          "parent_id": 64677151,
+          "content": "Máy móc là 1 chuyện, hàng rào tôn mới ghê bạn ơi, mỗi lần mưa giông là thấy ớn, lỡ nó bay thì sao, có đợt sập hàng rào tôn mà trong khu vực chung cư Mỹ Phước.",
+          "author": "trannqtrang",
+          "creation_time": 1791294733,
+          "likes": 4
+        },
+        {
+          "comment_id": 64678029,
+          "parent_id": 64677151,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1050221751\">@Là Huyền đây!!!!</span>:&nbsp;Sao biết không có rào chắn? Nhìn kỹ chút đi chế. Đang lắp ráp để gia cố nền, cải tạo đường và lòng kênh trong khi con đường hiện hữu B.H.N hẹp hơn 10m thì sự cố đến. Giờ thì có xử lý và khắc phục r.",
+          "author": "qvivo2020",
+          "creation_time": 1791296877,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678058,
+          "parent_id": 64677151,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1050221751\">@Là Huyền đây!!!!</span>:&nbsp;Rào chắn? Ý bạn là bịt luôn tuyến đường đó lại à? Bạn xem lại hình ảnh giàn khoan đổ và cho phương án khả thi đi",
+          "author": "Tâm Đạt Tuệ",
+          "creation_time": 1791297150,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678137,
+          "parent_id": 64677151,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1059637351\">@qvivo2020</span>:&nbsp;Tôi đâu khẳng định là không có rào chắn, chỉ đang thắc mắc về phương án an toàn nếu sự cố xảy ra. Đường vốn đã hẹp, máy lại cao và nặng nên dù đang lắp ráp hay gia cố thì khoảng cách với dòng xe và phương án xử lý khi máy mất ổn định vẫn đáng được đặt ra. Giờ đã khắc phục thì tốt, nhưng nhìn lại để tránh lặp lại cũng là chuyện cần thiết.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791297937,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678471,
+          "parent_id": 64677151,
+          "content": "Các thiết bị thi công cơ giới như cần cẩu, xe lu, xe đào, xe ủi... bắt buộc phải được kiểm tra định kỳ nhưng theo quan sát nhận thấy các thiết bị đều cũ kỹ.&nbsp;<br />Bên cạnh đó, việc kiểm tra độ cứng, bằng phẳng của nền, kê lót cho cẩu khoan để phân bổ tải trọng, chống lún, chống nghiêng... có đảm bảo theo yêu cầu kỹ thuật không?",
+          "author": "TRÍ",
+          "creation_time": 1791302163,
+          "likes": 1
+        },
+        {
+          "comment_id": 64678480,
+          "parent_id": 64677151,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1050221751\">@Là Huyền đây!!!!</span>:&nbsp;Góp ý cụ thể đi bạn!",
+          "author": "TRÍ",
+          "creation_time": 1791302381,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678517,
+          "parent_id": 64677151,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1118242237\">@TRÍ</span>:&nbsp;Thì nên gia cố nền chắc hơn, dùng hệ chống giữ/chằng néo ổn định máy và chỉ vận hành khi kiểm tra đủ tải, đủ độ ổn định. Đường đã hẹp thì càng phải ưu tiên phương án thi công để máy không có nguy cơ đổ vào khu vực xe cộ.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791303172,
+          "likes": 0
+        },
+        {
+          "comment_id": 64677631,
+          "parent_id": 64677342,
+          "content": "Ông làm như nước ngoài ko xảy ra",
+          "author": "chuvantubas",
+          "creation_time": 1791292186,
+          "likes": 3
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:07:14.748340+00:00"
+    },
+    {
+      "article_id": 5129167,
+      "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chu-tri-le-don-tong-thong-panama-5129167.html",
+      "title": "Tổng Bí thư, Chủ tịch nước chủ trì lễ đón Tổng thống Panama",
+      "published_at": "2026-10-06T11:21:16+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:07:17.782744+00:00"
+    },
+    {
+      "article_id": 5129156,
+      "url": "https://vnexpress.net/vo-bi-chong-danh-toi-tap-tren-duong-5129156.html",
+      "title": "Vợ bị chồng đánh tới tấp trên đường",
+      "published_at": "2026-10-06T11:07:59+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 35,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 34,
+      "loaded_root_count": 34,
+      "loaded_reply_count": 4,
+      "total_comment_likes": 549,
+      "partial_interaction_score": 553,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64677199,
+          "parent_id": 64677199,
+          "content": "Mong chị vợ làm tới cùng, tầm này chồng hay không chồng cũng không quan trọng nữa đâu. Vậy chớ nhiều người cứ bảo vợ/chồng phải tu 10 kiếp mới lấy được nhau, cỡ này chị vợ tu thêm kiếp nữa là thoát được rồi. Bức xúc thật.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791288019,
+          "likes": 133,
+          "expected_replies": 2
+        },
+        {
+          "comment_id": 64677153,
+          "parent_id": 64677153,
+          "content": "Không thể chấp nhận cho hành động này",
+          "author": "nguyenvanhung0105.dn",
+          "creation_time": 1791287553,
+          "likes": 84,
+          "expected_replies": 2
+        },
+        {
+          "comment_id": 64677081,
+          "parent_id": 64677081,
+          "content": "Không cho vợ vô nhà . bỏ đi thì đánh. đàn ông gì mà đốn mạt thế. Nhậu tỏ vẻ là đàn ông tôi không bao giờ tin là thế .",
+          "author": "chính nhân tâm",
+          "creation_time": 1791286687,
+          "likes": 74,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677065,
+          "parent_id": 64677065,
+          "content": "Có luật rồi cứ thế mà áp vào cho đi nghỉ dưỡng sám hối 1 thời gian về ký đơn này nọ luôn.",
+          "author": "skylinevn2008",
+          "creation_time": 1791286534,
+          "likes": 56,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677115,
+          "parent_id": 64677115,
+          "content": "Ác quá! Người kề vai sát cánh, tay ấp má kề mà?!",
+          "author": "Song Xà",
+          "creation_time": 1791287058,
+          "likes": 53,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677104,
+          "parent_id": 64677104,
+          "content": "Sao lại quá vũ phu như thế này? Cậu khóa cửa không cho vào thì vợ cậu sẽ đi đâu và ở đâu khi mà cô ấy về ngoại thì lại đánh?",
+          "author": "Song Xà",
+          "creation_time": 1791286959,
+          "likes": 42,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678007,
+          "parent_id": 64678007,
+          "content": "Phải có hình phạt tù mới đủ sức răn đe nạn bạo hành gia đình !",
+          "author": "cuongquoc198888",
+          "creation_time": 1791296662,
+          "likes": 11,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677929,
+          "parent_id": 64677929,
+          "content": "Vợ chồng gì với loại này trời???",
+          "author": "David Hồ",
+          "creation_time": 1791295734,
+          "likes": 7,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678021,
+          "parent_id": 64678021,
+          "content": "Giờ văn minh hiện đại rồi sau còn người như cầm thú thế ...",
+          "author": "yrdn9ck87k",
+          "creation_time": 1791296788,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677622,
+          "parent_id": 64677622,
+          "content": "kinh khủng!!! Đánh như phim chưởng.... Bỏ ngay và luôn!!!",
+          "author": "thanhbkjsc",
+          "creation_time": 1791292104,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677528,
+          "parent_id": 64677528,
+          "content": "Trời ạ , toàn là những cú đá mạnh vào đầu và mặt người ta như vậy làm sao chịu nỗi , đánh vợ như đánh kẻ thù mà không biết nhục à . Không biết Ba Má cô gái thấy cãnh con mình bị đánh như này liệu có chịu nỗi không",
+          "author": "manhtuann672",
+          "creation_time": 1791291171,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677703,
+          "parent_id": 64677703,
+          "content": "Thằng chồng này thật đê tiện!",
+          "author": "Anh Co",
+          "creation_time": 1791292915,
+          "likes": 5,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677614,
+          "parent_id": 64677614,
+          "content": "Mất hết nhân tính rồi, yêu cầu điều tra xử lý nghiêm chứ nhìn clip này tôi thấy vô cùng bức xúc và tôi tin cảm xúc của tất cả mọi người cũng vậy",
+          "author": "quypham1961",
+          "creation_time": 1791291986,
+          "likes": 5,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677508,
+          "parent_id": 64677508,
+          "content": "Cỡ này đi chục năm cho vợ thoát nạn. Mấy nhà có con gái nên cho đi học võ để tự vệ ạ! 0 cần đánh ai, có học võ rồi là tự tin hẳn.",
+          "author": "dieulienhoa67",
+          "creation_time": 1791290925,
+          "likes": 5,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677273,
+          "parent_id": 64677273,
+          "content": "Làm vợ của người này phí một đời; em gái hãy bản lĩnh lên vứt bỏ nó đi, xấu mặt đàn ông!",
+          "author": "bacvo2019",
+          "creation_time": 1791288687,
+          "likes": 5,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677732,
+          "parent_id": 64677732,
+          "content": "Khốn nạn đê hèn thật sự.",
+          "author": "luandang.070909",
+          "creation_time": 1791293218,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677577,
+          "parent_id": 64677577,
+          "content": "Mong pháp luật xử lý thật nghiêm khắc.",
+          "author": "Hien Bui",
+          "creation_time": 1791291636,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677568,
+          "parent_id": 64677568,
+          "content": "Điên hay sao mà đánh con người ta như vậy, lại còn là vợ mình.",
+          "author": "baotoan1905",
+          "creation_time": 1791291517,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677327,
+          "parent_id": 64677327,
+          "content": "Thật nhẫn tâm",
+          "author": "HHuy",
+          "creation_time": 1791289141,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677097,
+          "parent_id": 64677097,
+          "content": "Vậy là xuân này con ko về rồi. Tên này nên sớm cho nó thành ck cũ đi nhé cô gái",
+          "author": "hoa và nắng",
+          "creation_time": 1791286845,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677093,
+          "parent_id": 64677093,
+          "content": "Xấu ai chưa thấy nhưng điều thấy rỏ nhất là phẩm giá người đàn ông của mình vứt xuống cống rồi em ạ. Hay ho hay bản lỉnh gì khi chà đạp một cô gái mà người đó chính là vợ mình.!",
+          "author": "dangcongphuc0208",
+          "creation_time": 1791286796,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678384,
+          "parent_id": 64678384,
+          "content": "Tôi là người Mỹ, nhưng tôi thường sang Việt Nam thăm vợ hai lần mỗi năm, mỗi lần ở lại từ 4 đến 6 tháng trong thời gian chờ quyết định từ cơ quan di trú. Nếu chứng kiến cảnh tượng như vậy, tôi chắc chắn sẽ can thiệp và đánh người chồng một trận tơi bời. Không bao giờ có lý do gì để đánh đập phụ nữ cả.",
+          "author": "Brad Maddox",
+          "creation_time": 1791300802,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677687,
+          "parent_id": 64677687,
+          "content": "Chưa có gì trong tay mà còn như thế.<br />Nó có nhà 1 cái nó xem cô gái ra cái gì ?<br />Hiện tại 27t.<br />T cảm thấy sợ.<br />Khi mà lên google bấm bấm lướt lướt thì kiểu gì cũng ra 1 vụ chồng đánh vợ,với cái lý do củ chuối hết sức.<br />T cũng sợ phải lập gia đình rồi,vô đám kiểu gì cũng bị ép rượu trong khi chính vì rượu mà gđ mém tan nát mấy lần.<br />Giờ ra đường bị đúng 1 câu hỏi,chung 1 vấn đề.<br />Nào m lấy vợ.<br />Thật sự mà nói thì cũng muốn nói sốc 1 câu cho cứng họng lại đi,nhưng nói xong kiểu gì cũng có chuyện nên lại thôi.<br /><br />Hết ngoài đường về quê đám giỗ thì cũng bị cái câu đó dí ... riết r thì mỗi khi về quê,lên lầu đốt nén nhang cho ông bà.<br />Xong trốn ... ai trách gì kệ.",
+          "author": "nguyenminhminh24042000",
+          "creation_time": 1791292732,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677465,
+          "parent_id": 64677465,
+          "content": "Rồi cô vợ lại dễ làm đơn đề nghị không xử lý lắm. Khổ chị em.",
+          "author": "yenhb7972",
+          "creation_time": 1791290506,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678581,
+          "parent_id": 64678581,
+          "content": "Để rồi xem pháp luật xử lý việc này thế nào?.",
+          "author": "nguyenhongminh241163",
+          "creation_time": 1791304690,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678575,
+          "parent_id": 64678575,
+          "content": "Tên vũ phu, pháp luật nên xử mạnh tay kẻ  này?.",
+          "author": "nguyenhongminh241163",
+          "creation_time": 1791304573,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678516,
+          "parent_id": 64678516,
+          "content": "Cho đi lâu chút. Thứ đàn ông đánh phụ nữ thì nên ở tù lâu hơn bình thường",
+          "author": "phu.casablanca99",
+          "creation_time": 1791303166,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678515,
+          "parent_id": 64678515,
+          "content": "Kêu cửa thì không mở, đi thì chạy theo đánh, thế là thế nào hả thần men.",
+          "author": "Mouka",
+          "creation_time": 1791303157,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678469,
+          "parent_id": 64678469,
+          "content": "Xem mà buồn nhỉ. ",
+          "author": "hphfsn86nc",
+          "creation_time": 1791302123,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678227,
+          "parent_id": 64678227,
+          "content": "Bộ mặt thật đã...lòi ra. Cha mẹ nhiều khi chưa bao giờ đánh con gái kiểu thế, mà đây là người đầu ấp tay gối. Tự hiểu nha e gái. Sorry.",
+          "author": "qvivo2020",
+          "creation_time": 1791298677,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678218,
+          "parent_id": 64678218,
+          "content": "Bỏ sớm dùm cái. Không bị chồng đánh tới chết quá. Gì mà vũ phu dữ vậy.",
+          "author": "yugi bin",
+          "creation_time": 1791298557,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677364,
+          "parent_id": 64677364,
+          "content": "Thời nay đánh vợ thì đuợc CA mời, sau đó thì đuợc sống 1 mình vì đuợc vợ bỏ",
+          "author": "anhsau01957",
+          "creation_time": 1791289499,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677281,
+          "parent_id": 64677281,
+          "content": "Không biết khi nào mới tăng giá rượu bia để giảm nhậu. Nhìn chiều Thứ 7 hàng tuần chắc 50% là đang nhậu.",
+          "author": "khue.levan",
+          "creation_time": 1791288731,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677246,
+          "parent_id": 64677246,
+          "content": "Tác hại của bia rượu đó, lại còn đj uống cùng nhau nữa chứ, thôi bỏ đi em, còn ở với người đó em còn khổ",
+          "author": "thaond 2006",
+          "creation_time": 1791288464,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677641,
+          "parent_id": 64677199,
+          "content": "Thấy bạn bức xúc nhưng ngôn từ vẫn rất điềm tĩnh á ... tôi cũng mong như bạn đề xuất.",
+          "author": "snd2004",
+          "creation_time": 1791292277,
+          "likes": 9
+        },
+        {
+          "comment_id": 64678044,
+          "parent_id": 64677199,
+          "content": "Ai muốn tránh xa chú em này thì tôi ko biết. Nhưng tôi lại rất muốn gặp chú em này",
+          "author": "hiepmini82",
+          "creation_time": 1791296994,
+          "likes": 8
+        },
+        {
+          "comment_id": 64677214,
+          "parent_id": 64677153,
+          "content": "Dù bất kỳ lí do gì cũng không thể chấp nhận được hành động của tên này.",
+          "author": "M8Infinity",
+          "creation_time": 1791288126,
+          "likes": 4
+        },
+        {
+          "comment_id": 64678111,
+          "parent_id": 64677153,
+          "content": "Những kẻ bất tài thường là như thế, hay ra oai bạo lực để thị uy chèn ép người khác, nhưng nhiều c/e cũng rất lạ, bị sỉ vả hành hạ bầm dập khắp người nhưng vẫn một mực bênh vực tên chồng vô dụng....., người ngoài có can dự cũng chừng mực thôi.",
+          "author": "thd",
+          "creation_time": 1791297597,
+          "likes": 7
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:07:27.702396+00:00"
+    },
+    {
+      "article_id": 5129045,
+      "url": "https://vnexpress.net/trung-uong-ban-quy-dinh-dang-vien-tham-gia-dau-tu-kinh-doanh-5129045.html",
+      "title": "Trung ương bàn quy định đảng viên tham gia đầu tư, kinh doanh",
+      "published_at": "2026-10-06T11:05:23+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:07:31.047217+00:00"
+    },
+    {
+      "article_id": 5129008,
+      "url": "https://vnexpress.net/thu-thanh-benin-toi-se-khong-bieu-ban-thang-cho-messi-5129008.html",
+      "title": "Thủ thành Benin: 'Tôi sẽ không biếu bàn thắng cho Messi'",
+      "published_at": "2026-10-06T11:00:37+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 38,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 14,
+      "loaded_root_count": 14,
+      "loaded_reply_count": 25,
+      "total_comment_likes": 396,
+      "partial_interaction_score": 421,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64676872,
+          "parent_id": 64676872,
+          "content": "Cảm ơn tuổi trẻ và thanh xuân đã cuồng nhiệt cùng Messi, gần 20 năm trôi qua chưa bỏ lỡ bất cứ trận đấu nào của Messi, cảm thấy xứng đáng và mãn nguyện.",
+          "author": "CR 0 - 9 Huyền Thoại",
+          "creation_time": 1791284870,
+          "likes": 38,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676868,
+          "parent_id": 64676868,
+          "content": "Đúng vậy, Messi chẳng cần ai ban phát, anh ta sẽ tự ghi bàn bằng đôi chân của mình",
+          "author": "Messi : Vua Bóng Vàng & Giày Vàng Fifa",
+          "creation_time": 1791284774,
+          "likes": 26,
+          "expected_replies": 2
+        },
+        {
+          "comment_id": 64676871,
+          "parent_id": 64676871,
+          "content": "Hy vọng đối thủ sẽ chơi hết mình, để Messi toát 1 chút mồ hôi, hihi",
+          "author": "Messi : Vua Bóng Vàng & Giày Vàng Fifa",
+          "creation_time": 1791284829,
+          "likes": 20,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676915,
+          "parent_id": 64676915,
+          "content": "Trăm năm bia đá cũng mòn<br />Tiếng tăm Si mãi vẫn còn về sau<br />Bao giờ xuất hiện anh hào?<br />Tài năng thiên bẩm người nào giống Si...",
+          "author": "HT (king.pacific74)",
+          "creation_time": 1791285236,
+          "likes": 13,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64676935,
+          "parent_id": 64676935,
+          "content": "Thế là giờ chúng tôi ko đc xem “tiên nhân” chơi bóng trong màu áo ĐTQG nữa rồi. Tiên nhân thì vẫn bỏ ngỏ.",
+          "author": "Rô Vạ Né Té",
+          "creation_time": 1791285436,
+          "likes": 12,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676912,
+          "parent_id": 64676912,
+          "content": "Cậu TM ko biếu nhưng trọng tài sẽ biếu thôi, ít nhất 1-2 trái Pen làm quà, nhưng thôi có Pen để cậu Messi ghi bàn cho ko khi vui vẻ tí cũng tốt mà.<br /><br />Chuyên gia tôi tự hỏi các cậu fan bán chuyên MLS sáng mai liệu có bao nhiu cậu xin nghỉ làm, dừng hết tất cả mọi việc để xem và tri ân,lòng đau quặn thắt khi idol từ giã ĐTQG nhỉ, chuyên gia tôi nghĩ là ko cậu nào,đơn giản nói thì dễ còn làm thì chưa chắc !!!",
+          "author": "ansyquansau.htd",
+          "creation_time": 1791285199,
+          "likes": 10,
+          "expected_replies": 11
+        },
+        {
+          "comment_id": 64677113,
+          "parent_id": 64677113,
+          "content": "Không biết 7 giải nghệ có dc vậy ko",
+          "author": "2yjbwd5bvx",
+          "creation_time": 1791287037,
+          "likes": 7,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676949,
+          "parent_id": 64676949,
+          "content": "Benin hạng 193 Fifa , mong cho Si có bàn thắng thứ 126 cho ĐTQG , quá là vinh dự",
+          "author": "lienhe.dtl",
+          "creation_time": 1791285539,
+          "likes": 7,
+          "expected_replies": 8
+        },
+        {
+          "comment_id": 64677980,
+          "parent_id": 64677980,
+          "content": "Messi đúng là trường hợp đặc biệt, đối thủ vừa muốn ngăn anh ghi bàn, vừa mong được đổi áo và lưu lại kỷ niệm với anh. Đó không chỉ là tài năng, mà là sức ảnh hưởng của một huyền thoại bóng đá.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791296329,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677840,
+          "parent_id": 64677840,
+          "content": "Mong Argentina 0-1 Benin, tôi fan Tây Ban Nha<br />Benin ghi bàn phút cuối cùng",
+          "author": "sahur",
+          "creation_time": 1791294815,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677005,
+          "parent_id": 64677005,
+          "content": "tranh thủ cả thế giới tập trung phê phán CR7 thì Argen đã kịp book lịch 2 trận cù lao châu phi để Si farm gà.",
+          "author": "lady",
+          "creation_time": 1791286004,
+          "likes": 1,
+          "expected_replies": 3
+        },
+        {
+          "comment_id": 64678642,
+          "parent_id": 64678642,
+          "content": "Đá với đội khá yếu mà không thắng nữa thì thôi.",
+          "author": "reddragon853",
+          "creation_time": 1791306618,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678513,
+          "parent_id": 64678513,
+          "content": "Bao nhiêu người gáy trước trận đa phần phải nhận kết cục cay đắng đắng mà vẫn không rút kinh nghiệm. Bên Saudi kia chỉ dám hô Ronaldo một lần là họ rút kinh nghiệm lần sau không hô nữa là một ví dụ điển hình, rồi ông Van gàn nữa chẳng hạn... Tôi nói vui thôi, chứ đây cũng chỉ là trận đấu giải trí tạm biết Messi ở ĐTQG thôi mà.",
+          "author": "thienankhang389",
+          "creation_time": 1791303116,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678069,
+          "parent_id": 64678069,
+          "content": "yêu cho roi cho vọt là đây",
+          "author": "nguyenthanhvan221",
+          "creation_time": 1791297229,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677713,
+          "parent_id": 64676868,
+          "content": "tưởng bằng tay",
+          "author": "nguyenngocphong2009.bh",
+          "creation_time": 1791293043,
+          "likes": 1
+        },
+        {
+          "comment_id": 64678038,
+          "parent_id": 64676868,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1123882709\">@nguyenngocphong2009.bh</span>:&nbsp;Tay cũng không bằng tóc nhé !",
+          "author": "Xắng Ca",
+          "creation_time": 1791296944,
+          "likes": 2
+        },
+        {
+          "comment_id": 64677887,
+          "parent_id": 64676915,
+          "content": "Trăm năm Vôn Cúp cũng mòn<br />Bóng Vàng cũng hết chỉ còn Mâm Xôi",
+          "author": "alibaD",
+          "creation_time": 1791295266,
+          "likes": 6
+        },
+        {
+          "comment_id": 64677120,
+          "parent_id": 64676912,
+          "content": "Đúng, đúng, đúng. Bí lối thì phải \"tự hỏi\" và \"tự trả lời\", chứ \"lý lẽ\" trong sự vô lý, thì làm sao có thể \"hỏi\" được ai chứ hè. Há ... há ... há ... :P",
+          "author": "Chạy lăng quăng đá ... trớt quớt",
+          "creation_time": 1791287139,
+          "likes": 28
+        },
+        {
+          "comment_id": 64677228,
+          "parent_id": 64676912,
+          "content": "Tôi biết cậu là fan cuồng cậu diana kia nhưng tôi vẫn luôn tin đến ngày cậu sẽ hiểu và nhận ra sai lầm.",
+          "author": "Rô Vạ Né Té",
+          "creation_time": 1791288316,
+          "likes": 29
+        },
+        {
+          "comment_id": 64677261,
+          "parent_id": 64676912,
+          "content": "Có đau nhưng chắc chắn ko đau bằng chiên da mấy hôm nay...., haha đã quá đã chiên da ạ",
+          "author": "guongsangdatngoc",
+          "creation_time": 1791288616,
+          "likes": 19
+        },
+        {
+          "comment_id": 64677400,
+          "parent_id": 64676912,
+          "content": "Sao mà phải đoán trước rào sau thế. Mes ghi bàn hay ko ko quan trọng. Quan trọng là 7 có nhận cúp nếu Bồ vô địch cái giải gì đấy hay không hihi",
+          "author": "philam0909",
+          "creation_time": 1791289913,
+          "likes": 19
+        },
+        {
+          "comment_id": 64677565,
+          "parent_id": 64676912,
+          "content": "1 người đi trong vinh quang. Hàng vạn khán giả tới tri ân cổ vũ. 1 kẻ hờn dỗi đo trong Lủi thủi , khổ thân.",
+          "author": "leezin",
+          "creation_time": 1791291481,
+          "likes": 11
+        },
+        {
+          "comment_id": 64677569,
+          "parent_id": 64676912,
+          "content": "Ủa sao phải nghỉ làm vậy? Trận đấu diễn ra lúc 6h trễ lắm thì 8h cũng kết thúc, mà 9h mới làm việc. Vừa ăn sáng vừa nhâm nhi ly cà phê vừa xem Messi đá trận cuối cho đội tuyển quốc gia thật sướng gì đâu.",
+          "author": "ltgiang869",
+          "creation_time": 1791291542,
+          "likes": 12
+        },
+        {
+          "comment_id": 64677666,
+          "parent_id": 64676912,
+          "content": "Biếu 1-2 quả pen cho Si làm gì. Tối nay cả đội Belin sẽ hỗ trợ cho Si ghi hẳn 73 bàn, đoạt 1000 bàn trước Rô, kiểu gì Rô cũng cay cú về bảo Morgan lên họp báo cho mà xem.",
+          "author": "Thần Gió Dờ Bét",
+          "creation_time": 1791292522,
+          "likes": 15
+        },
+        {
+          "comment_id": 64677864,
+          "parent_id": 64676912,
+          "content": "Bác cứ lo xa, mấy năm nay có ai đau được bằng chiên da? Chiên da cho hỏi anh 7 bao giờ đá trận chia tay đội tuyển nhỉ? Trận đó anh 7 đá chính hay vẫn phải dự bị ấy nhỉ?",
+          "author": "Đệm vương",
+          "creation_time": 1791295077,
+          "likes": 13
+        },
+        {
+          "comment_id": 64677872,
+          "parent_id": 64676912,
+          "content": "https://vnexpress.net/ronaldo-chap-nhan-cao-buoc-dap-dien-thoai-cua-cdv-nhi-4522687.html",
+          "author": "alibaD",
+          "creation_time": 1791295147,
+          "likes": 10
+        },
+        {
+          "comment_id": 64677889,
+          "parent_id": 64676912,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1075315220\">@Rô Vạ Né Té</span>:&nbsp;Có nhiều người hơn 40t vẫn chưa trưởng thành. Và cũng nhiều người 6,70t vẫn chưa trường thành xong đâu. Cậu chờ hơi lâu đấy :')",
+          "author": "Thích Đá Bóng",
+          "creation_time": 1791295307,
+          "likes": 12
+        },
+        {
+          "comment_id": 64678552,
+          "parent_id": 64676912,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1099380314\">@alibaD</span>:&nbsp;Cỡ ansy là khán giả loanh quanh không biết bị đập điện thoại hay bị đập gì? Lúc đấy về không viết sẽ mách ai",
+          "author": "thienankhang389",
+          "creation_time": 1791303911,
+          "likes": 0
+        },
+        {
+          "comment_id": 64677179,
+          "parent_id": 64676949,
+          "content": "Đúng chất fan 7. Benin hạng 93 thế giới 2026. Fan còn nhớ BĐN vs Armenia (hạng 108) vòng loại WC2026 ko nè:<br />Có 7: thắng 5-0<br />Ko 7: thắng 9-1<br />https://vnexpress.net/ronaldo-lap-cu-dup-o-vong-loai-world-cup-2026-4936052.html<br />https://vnexpress.net/bo-dao-nha-thang-9-1-khi-vang-ronaldo-4964661.html",
+          "author": "Tuanguyen",
+          "creation_time": 1791287791,
+          "likes": 15
+        },
+        {
+          "comment_id": 64677253,
+          "parent_id": 64676949,
+          "content": "Bậy chưa, hạng 93 chứ ko phải 193 nhé",
+          "author": "guongsangdatngoc",
+          "creation_time": 1791288554,
+          "likes": 2
+        },
+        {
+          "comment_id": 64677372,
+          "parent_id": 64676949,
+          "content": "Siuuu<br />https://vnexpress.net/7-cau-thu-dong-vien-khi-ronaldo-khoc-4765333.html",
+          "author": "alibaD",
+          "creation_time": 1791289595,
+          "likes": 10
+        },
+        {
+          "comment_id": 64677510,
+          "parent_id": 64676949,
+          "content": "tớ hỏi gemini sao nó lại bảo hạng 91 93 hơn đảo Síp với Luxembourg xD",
+          "author": "hieudz20041999",
+          "creation_time": 1791290961,
+          "likes": 8
+        },
+        {
+          "comment_id": 64677678,
+          "parent_id": 64676949,
+          "content": "Tối nay Si ghi hẳn 73 bàn nhé, 1000 bàn trước Rô. Cả đội Benin vô sổ. Mai được Rô và Morgan cho lên sóng ngay luôn.",
+          "author": "Thần Gió Dờ Bét",
+          "creation_time": 1791292656,
+          "likes": 7
+        },
+        {
+          "comment_id": 64677707,
+          "parent_id": 64676949,
+          "content": "Messi đã là vua Giày vàng châu Âu, vua bàn thắng ờ châu Âu (704 bàn), vua bàn thắng trong lịch sử (xét trong phạm vi tối đa 1.177 trận đấu), vua kiến tạo lịch sử, vua ghi bàn & kiến tạo trong lịch sử World Cup. Tầm vóc vĩ đại như vậy thì cần một vài bàn trong trận đấu \"giã từ\" nữa đâu há. ^^ Không thể dùng suy nghĩ về việc \"nhặt thóc\" của chim sẻ để áp vào lối tư duy trong việc \"vồ mồi\" của đại bàng được đâu há. Há ... há ... há... :P",
+          "author": "quydaudan.rooney",
+          "creation_time": 1791292980,
+          "likes": 11
+        },
+        {
+          "comment_id": 64677869,
+          "parent_id": 64676949,
+          "content": "Cry7 ghi hattrick trận ck đưa Bồ vô địch WC2026 & Euro2024,mà Cry7 được danh hiệu gì nhỉ",
+          "author": "Com vui",
+          "creation_time": 1791295126,
+          "likes": 10
+        },
+        {
+          "comment_id": 64678578,
+          "parent_id": 64676949,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1123230738\">@guongsangdatngoc</span>:&nbsp;Và đã từng đứng 59 đấy (2010)",
+          "author": "jamesbuirealtor",
+          "creation_time": 1791304661,
+          "likes": 0
+        },
+        {
+          "comment_id": 64677907,
+          "parent_id": 64677005,
+          "content": "Kế hoạch này đã có từ trước khi 7 giãy nảy lên ở tuyển rồi đấy, cũng giống như Messi đã vô địch thế giới từ cái thời 7 còn đang lụi cụi lót nốt mấy phần đường hầm dẫn ra sân bay đấy. Há há há",
+          "author": "vynguyen080893",
+          "creation_time": 1791295446,
+          "likes": 10
+        },
+        {
+          "comment_id": 64677932,
+          "parent_id": 64677005,
+          "content": "Giờ có người ước được farm ở tuyển cũng chẳng được ấy chứ. Đảo síp ơi, lích ten ten ơi, lúc xem bua ơi... đã mãi mãi rời xa.",
+          "author": "Đệm vương",
+          "creation_time": 1791295740,
+          "likes": 9
+        },
+        {
+          "comment_id": 64678565,
+          "parent_id": 64677005,
+          "content": "<span class=\"reply_name myuser\" data-userid=\"1011329455\">@Đệm vương</span>:&nbsp;Và nghĩ đến cái mục đích 1000 bàn thắng để lòe fan và fan tin sái cổ rồi fan lại đi lòe thiên hạ, mà thiên hạ thì lại biết thừa cái trình độ của idol họ nên cười vỡ bụng với thầy trò",
+          "author": "thienankhang389",
+          "creation_time": 1791304324,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:07:40.178217+00:00"
+    },
+    {
+      "article_id": 5129055,
+      "url": "https://vnexpress.net/be-trai-nhiem-trung-duong-ruot-5129055.html",
+      "title": "Bé trai nhiễm trùng đường ruột",
+      "published_at": "2026-10-06T11:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:07:43.883737+00:00"
+    },
+    {
+      "article_id": 5129146,
+      "url": "https://vnexpress.net/sam-altman-the-gioi-nen-chap-nhan-nhung-dieu-toi-te-cua-ai-5129146.html",
+      "title": "Sam Altman: 'Thế giới nên chấp nhận những điều tồi tệ của AI'",
+      "published_at": "2026-10-06T10:42:26+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 17,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 17,
+      "loaded_root_count": 17,
+      "loaded_reply_count": 1,
+      "total_comment_likes": 63,
+      "partial_interaction_score": 64,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64676943,
+          "parent_id": 64676943,
+          "content": "AI làm năng suất lao động cao hơn nhiều nhưng không giảm khoảng cách giàu nghèo. AI phát triển chậm 1 tý ko ảnh hưởng nhiều, ko nên bất chấp để phát triển AI.",
+          "author": "trungmcx",
+          "creation_time": 1791285475,
+          "likes": 19,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64676789,
+          "parent_id": 64676789,
+          "content": "Sao phải chấp nhận, đang yên đang lành...<br />AI phát triển là để phục vụ con người mà",
+          "author": "David Hồ",
+          "creation_time": 1791284351,
+          "likes": 13,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677091,
+          "parent_id": 64677091,
+          "content": "Không hiểu sao nhìn cái mặt CEO OpenAI là mình không ưa! Chính ông này đã mở cái hộp Pandora AI! Thế giới không tốt đẹp hơn mà phần nhiều xấu đi từ khi OpenAI ra đời!",
+          "author": "Hoàng",
+          "creation_time": 1791286781,
+          "likes": 10,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678205,
+          "parent_id": 64678205,
+          "content": "AI có thể đem lại lợi ích khổng lồ, nhưng “cứ chấp nhận một số điều tồi tệ” thì hơi cấn cấn. Nếu một vụ lừa đảo, tấn công mạng hay mất việc xảy ra vì AI, người chịu thiệt đâu phải lúc nào cũng được hưởng phần lợi ích mà Sam Altman nói đến?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791298447,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677442,
+          "parent_id": 64677442,
+          "content": "Quan điểm có chút lệch lạc, cần nghiêm túc với nhưng nguy cơ mất kiểm soát và thảo luận cùng đưa ra một đạo luật để mọi nhà phát triên AI trên toàn cầu tuân thủ hành động thay vì tự phát vô kỷ luạt như hiện nay.",
+          "author": "hoanglan1603",
+          "creation_time": 1791290310,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677306,
+          "parent_id": 64677306,
+          "content": "Vâng, chấp nhận lợi ích lớn hơn mà AI mang lại cho giới chủ và rủi ro cho toàn nhân loại.",
+          "author": "Lý Nghịch",
+          "creation_time": 1791288890,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677944,
+          "parent_id": 64677944,
+          "content": "Chỉ biết là khi AI bùng nổ thì giá RAM, ổ cứng tăng vùn vụt. Nhớ lại khi “tiền ảo” bùng nổ thì giá VGA lên mây. Sau vụ AI không biết...vụ gì ta???",
+          "author": "nguyenthanhtao.ipad",
+          "creation_time": 1791295910,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677743,
+          "parent_id": 64677743,
+          "content": "Bất kỳ nghiên cứu mới nào khi thí nghiệm điều có rủi ro, nhưng đó là nằm trong phòng TN. Còn bây giờ AI tự học, tự ý, tự vận hành. Nếu nó đúng logic tốt thì tuyệt, nhưng nếu nó phi logic, ngta tạo AI vs ý đồ xấu thì sự gây hại còn có thể lớn hơn và ko thể khắc phục được.",
+          "author": "lmkha0891",
+          "creation_time": 1791293362,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677692,
+          "parent_id": 64677692,
+          "content": "Sam là thiên tài nhưng CEO của Anthropic mới đúng là hoàng đế",
+          "author": "nongvandanthanhpho",
+          "creation_time": 1791292788,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676752,
+          "parent_id": 64676752,
+          "content": "Muốn nhận quà phải trả phí.",
+          "author": "Binh Phương",
+          "creation_time": 1791284101,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677052,
+          "parent_id": 64677052,
+          "content": "thà sống chậm mà an toàn. tiền nhiều để làm gì",
+          "author": "tuan.airtac",
+          "creation_time": 1791286410,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678570,
+          "parent_id": 64678570,
+          "content": "Không kiểm soát được nên khuyên người ta học cách chấp nhận?",
+          "author": "Yoshiko W",
+          "creation_time": 1791304408,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677912,
+          "parent_id": 64677912,
+          "content": "rồi nhé!<br />ông này còn nói thế thì biết sẽ thế nào rồi mà mấy ông hồi trước cứ nói ko sợ!!!!<br />mà trước giờ có cái nào hoặc tốt , hoặc xấu 1 chiều bao giờ đâu...cả chiến tranh thảm khốc thế , lên án thế mà nó vẫn có, thậm chí còn nhiều, biến hoá nhiều hình thức nữa...<br />thì 1 ngày nào đó AI kèm combo robot lên ngôi loài người đi xuống là quá dễ hiểu",
+          "author": "gacib.oark",
+          "creation_time": 1791295543,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677823,
+          "parent_id": 64677823,
+          "content": "AI cướp job, tiền bạc của con người rồi còn lợi ích gì nữa. Công nghệ phải phục vụ con người chứ. Thật ra Sam cũng đâu biết mình đang làm gì.",
+          "author": "tonyvohcmut",
+          "creation_time": 1791294610,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677784,
+          "parent_id": 64677784,
+          "content": "Thế giới cần phát triển nhanh để một ngày tránh bị diệt vong. Trong 1 tỉ năm nữa mặt trời sáng hơn sẽ hủy diệt sự sống trên trái đất, Mặt trời còn tồn tại đúng 2.5 tỉ năm nữa và sẽ tắt hẳn. Vào lúc đó con người đủ thông minh để tìm sự sống khác trên hệ hành tinh khác mặt trời. Không tiến thì làm sao có phát minh long trời lở đất được.",
+          "author": "Annie NguyenPham",
+          "creation_time": 1791293896,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677655,
+          "parent_id": 64677655,
+          "content": "Nếu AI là một công cụ thì sẽ phục vụ con người nhưng nếu nó đủ thông minh để coi nó là một giống loài mới thì kẻ thông minh hơn sẽ không làm công cụ cho kẻ kém thông minh hơn nó.",
+          "author": "batigol121",
+          "creation_time": 1791292432,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677515,
+          "parent_id": 64677515,
+          "content": "Lợi ích cho ai? Rủi ro cho ai?",
+          "author": "Truong Van Hoc",
+          "creation_time": 1791290988,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678586,
+          "parent_id": 64676943,
+          "content": "Người ta phát triển AI để người ta kiếm tiền. Bạn không làm được thì họ cũng vẫn phải kiếm tiền.",
+          "author": "Philip Viet",
+          "creation_time": 1791304765,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:07:49.910841+00:00"
+    },
+    {
+      "article_id": 5129159,
+      "url": "https://vnexpress.net/diem-tin-21h-trung-uong-ban-quy-dinh-dang-vien-tham-gia-dau-tu-kinh-doanh-tong-bi-thu-chu-tich-nuoc-chu-tri-le-don-tong-thong-panama-5129159.html",
+      "title": "Điểm tin 21h: Trung ương bàn quy định đảng viên tham gia đầu tư, kinh doanh | Tổng Bí thư, Chủ tịch nước chủ trì lễ đón Tổng thống Panama",
+      "published_at": "2026-10-06T10:12:00+00:00",
+      "time_source": "visible GMT+7 date",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:07:53.259488+00:00"
+    },
+    {
+      "article_id": 5129059,
+      "url": "https://vnexpress.net/toi-sai-lam-vi-ke-chuyen-rieng-tu-gia-dinh-cho-ban-cua-me-chong-5129059.html",
+      "title": "Tôi sai lầm vì kể chuyện riêng tư gia đình cho bạn của mẹ chồng",
+      "published_at": "2026-10-06T10:11:38+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 27,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 20,
+      "loaded_root_count": 20,
+      "loaded_reply_count": 8,
+      "total_comment_likes": 103,
+      "partial_interaction_score": 111,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64676561,
+          "parent_id": 64676561,
+          "content": "Có cô con dâu như này thì cũng thật tội cho bà mẹ và gia đình chồng.",
+          "author": "Chris",
+          "creation_time": 1791282808,
+          "likes": 25,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64676533,
+          "parent_id": 64676533,
+          "content": "Không quá đáng chút nào đâu chị ơi! Đây là bài học đắt giá về việc 'giữ miệng'. Bây giờ cách tốt nhất không phải là nhắn tin cãi nhau hay cố phân bua đúng sai nữa (càng làm thế người ta càng có cớ khóc lóc với mẹ chồng). Hãy áp dụng chiến thuật 'lạnh lùng lịch sự', coi như không tồn tại, cắt đứt hoàn toàn việc chia sẻ thông tin. Hãy để chồng đứng ra làm màng lọc bảo vệ các con!",
+          "author": "Ha an",
+          "creation_time": 1791282567,
+          "likes": 16,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64676536,
+          "parent_id": 64676536,
+          "content": "Theo các chị em, khi lỡ dại tâm sự chuyện nhà mình cho người ngoài rồi bị họ 'quay xe' chơi thân với phía bên kia, nên chọn cách âm thầm rút lui giữ khoảng cách hay thẳng thắn đối chất một lần cho rõ ràng?",
+          "author": "Ha an",
+          "creation_time": 1791282597,
+          "likes": 9,
+          "expected_replies": 2
+        },
+        {
+          "comment_id": 64676522,
+          "parent_id": 64676522,
+          "content": "Chuyện dâu con ấm ức cần tìm người trải nghiệm để xin lời khuyên là tâm lý rất bình thường. Lỗi ở đây là đặt niềm tin sai người, chỉ vậy thôi. Đáng trách là mẹ chồng bạn lại có vẻ bênh người ngoài hơn con dâu mình.<br />&nbsp;",
+          "author": "Bình thường thôi",
+          "creation_time": 1791282516,
+          "likes": 7,
+          "expected_replies": 2
+        },
+        {
+          "comment_id": 64676487,
+          "parent_id": 64676487,
+          "content": "Theo như chị đang cảm thấy thì em đang tự dẫn cáo vào nhà rồi. Bây giờ ngưng mọi chia sẻ và giữ khoảng cách cần thiết và từ từ cắt đứt luôn mối quan hệ này càng sớm càng tốt. Về phía chồng con thì em có quyền thiết lập hàng rào bảo vệ tối đa, không cho tiếp xúc là rất đúng. Còn về phía mẹ chồng và em chồng thì e là hơi khó khăn đấy vì em không có quyền can thiệp. Chỉ có tìm cách lấy lòng, thân thiết lại với cả 2 người, năng đưa cháu về thăm hỏi biếu quà cho bà để gia tăng tình cảm. Sau đó tỉ tê với bà là con có cảm giác không an toàn vì thấy cô kia có vẻ tìm cách dòm ngó vào gia đình nhỏ chứ không phải cố ý can thiệp vào các mối quan hệ của bà, mong bà hiểu cho là em cũng đang muốn bảo vệ hạnh phúc gia đình mình. Phải tìm cách làm thật khéo léo không mọi việc lại bung bét ra.",
+          "author": "thuy.phan",
+          "creation_time": 1791282256,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676743,
+          "parent_id": 64676743,
+          "content": "người bạn đó đa bắt đầu có tâm cơ khi nghe và thấy căn nhà ven hồ rồi.",
+          "author": "Bình thường thôi",
+          "creation_time": 1791284006,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676717,
+          "parent_id": 64676717,
+          "content": "Chẳng còn cách nào hay hơn là tuyệt đối giữ im lặng, nếu có gặp nhau thì chào hỏi lịch sự thôi, ngoài ra không cần phải nói hay làm gì nữa. Tôi cũng đã từng chia sẻ một bí mật cho người mà mình rất tin tưởng nhiều năm, sau đó thì rất nhanh chóng bị phản bội một vố đau. Tôi đã xác minh một cách rõ ràng với người đó, nhận xác minh xong, cám ơn vì người đó đã trả lời và giữ im lặng đến giờ (14 năm rồi), không phán xét, không phàn nàn. Mình đặt niềm tin sai chỗ, mình làm thì mình chịu, chẳng cần oán trách gì ai cả cho mệt đầu bạn ơi! Rút kinh nghiệm cho cuộc sống về sau thôi!",
+          "author": "chucmungnammoi.bonn",
+          "creation_time": 1791283842,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676708,
+          "parent_id": 64676708,
+          "content": "Sao tác giả ngây thơ được vậy nhỉ? Bạn nghĩ người mà mẹ chồng giới thiệu sẽ đứng về phía bạn ư? :-)",
+          "author": "drawinenix",
+          "creation_time": 1791283754,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676495,
+          "parent_id": 64676495,
+          "content": "Dĩ nhiên là \" phải giữ im lặng \" , né ra càng xa càng tốt, không những với mẹ chồng, em chồng mà là với bất cứ người nào cũng đừng dại mồm đi '\" kể chiện riêng tư gia đình.... \" rồi thì gián tiếp chuyện \" riêng từ gia đình \" này cũng dính dáng đến họ.... tui đoan chắc là \" chuyện riêng tư gia đình... \" này có liên quan đến mẹ chồng , em chồng , phải không ?",
+          "author": "Phuonglan Le",
+          "creation_time": 1791282291,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677186,
+          "parent_id": 64677186,
+          "content": "Cảnh báo gấp nếu không tan cửa nát nhà",
+          "author": "DỐC ĐỨNG",
+          "creation_time": 1791287903,
+          "likes": 2,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676627,
+          "parent_id": 64676627,
+          "content": "Im lặng là vàng..!!<br />Rồi giữa người với người sẽ ít giao tiếp hơn, chỉ trò chuyện với robot<br />Tôi sợ 1 tương lai như vậy quá đáng sợ",
+          "author": "David Hồ",
+          "creation_time": 1791283291,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676595,
+          "parent_id": 64676595,
+          "content": "Bạn chia sẻ nhầm người rồi . Đầu tiên là bạn phải im lặng và nên giữ khoảng cách với người bạn ấy những sai lầm lúc trước của bạn nên cần phải được thay đổi ngay bây giờ . Bạn có quyền khuyên chồng con giữ khoảng cách với người đó nhưng quyết định là của họ . Mẹ chồng của bạn cũng đc quyền quyết định chồng bạn tiếp tục chơi với người đó hay không ? Nhìn chung, bạn đã sai lầm và đang yếu thế cho nên sự im lặng, trầm tĩnh và quan tâm, thương yêu chồng con mới có thể giữa hạnh phúc gia đình lúc này .",
+          "author": "HT (king.pacific74)",
+          "creation_time": 1791283067,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678684,
+          "parent_id": 64678684,
+          "content": "Không phải họ tâm cơ, mà bạn quá dại. Chuyện riêng tư trong nhà mà đem kể cho bàn dân thiên hạ, khác gì đem điểm yếu của mình phơi bày cho thiên hạ xem. Họ không lợi dụng mới là lạ.",
+          "author": "nguyentuanlinhqtkd",
+          "creation_time": 1791308008,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678576,
+          "parent_id": 64678576,
+          "content": "Tại bạn mẹ chồng đó chứ vì đã dặn không kể với ai rồi mà.",
+          "author": "Nguyễn Khánh Tùng",
+          "creation_time": 1791304619,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678572,
+          "parent_id": 64678572,
+          "content": "Đây là con dâu tương lai của mẹ chồng bạn đấy. Bạn bị ăn quả lừa rồi!",
+          "author": "Minh Nguyen",
+          "creation_time": 1791304505,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678099,
+          "parent_id": 64678099,
+          "content": "Bạn là người nhiều chuyện thì gặp người nhiều chuyện như mình thôi. Chia sẻ thông tin gia đình mình, chia sẻ suy nghĩ của mình về gia đình chồng cho người mà mẹ chồng giới thiệu thì cũng đủ thấy tư duy của bạn rồi. Nói chung bạn và bạn của bạn đều ở 1 tầng như nhau. Muốn sống an yên thì đời mình gia đình mình mình sống. Kệ thiên hạ nói gì làm gì đi, thì mọi chuyện sẽ yên ổn. Không thích chơi với ai thì nghỉ nói chuyện nhắn tin cho họ.",
+          "author": "hungcuong1105",
+          "creation_time": 1791297506,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677931,
+          "parent_id": 64677931,
+          "content": "Các cụ dạy \" Chuyện trong nhà thì đóng cửa bảo nhau\" đa số mọi người tôi gặp phải đều sai lầm khi không học theo mà toàn làm ngược lại !",
+          "author": "nguyenvanso1331",
+          "creation_time": 1791295737,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677624,
+          "parent_id": 64677624,
+          "content": "Còn bạn? Bạn lấy anh chồng này có phải vì gia đình bên đó 'có điều kiện, có nhà ven hồ' không?",
+          "author": "Ga_co_doc",
+          "creation_time": 1791292126,
+          "likes": 1,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64676590,
+          "parent_id": 64676590,
+          "content": "Thôi xong. Tác giả đã rước sói vào nhà rồi. Có khả năng cao là tác giả sẽ mất ông chồng và sau đó nữa thì tác giả phải đi cưới ông chồng thứ hai. Lần sau tác giả không được khoe tài sản của chồng hay các đức tính tốt của ông chồng và nhà chồng cho bất kỳ cô bạn gái thân hoặc là cùng lứa tuổi nào nhé",
+          "author": "namthangbennguoi",
+          "creation_time": 1791283018,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676563,
+          "parent_id": 64676563,
+          "content": "Cứ lạnh lùng với cô ta,người khác muốn thân thiện kệ, lâu lâu bảo sao sướng thế độc thân rảnh rỗi thật trước mặt chồng tg cho chồng thấy người này không vất vả như vợ mình không có cả thời gian nhàn, khi cô ta xuất hiện tg cứ tìm việc nhà né hoặc bảo ngồi chơi bận việc không tiện.",
+          "author": "kaka85online",
+          "creation_time": 1791282815,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678539,
+          "parent_id": 64676561,
+          "content": "Có khi cô gái này được mẹ chồng thuê để đẩy cuộc hôn nhân của tác giả đến bờ vực sụp đổ. Kết hôn kiểu gì mà cả nhà chồng chẳng ai ưa mình, đã thế còn đi kiếm chuyện với gia đình người ta (chọc tức em chồng). Tôi đoán bạn này cố chen chân vào gia đình này vì khối tài sản của họ, chứ cũng chẳng tốt đẹp gì mấy. :-)",
+          "author": "An Raster",
+          "creation_time": 1791303603,
+          "likes": 0
+        },
+        {
+          "comment_id": 64677542,
+          "parent_id": 64676533,
+          "content": "Vạch áo cho người ta xem lưng . Trong nhà chưa tỏ ngoài ngõ đã tường",
+          "author": "Tien Hoang Van",
+          "creation_time": 1791291266,
+          "likes": 1
+        },
+        {
+          "comment_id": 64676581,
+          "parent_id": 64676536,
+          "content": "Mọi chuyện trong nhà cứ bô bô cho người ngoài mà không phải chồng thì xem như rước họ vào thân chứ âm thầm rút lui giữ khoảng cách hay thẳng thắn đối chất nó lại càng cho ta thấy mình yếu kém và lắm chuyện.",
+          "author": "tamduc",
+          "creation_time": 1791282932,
+          "likes": 5
+        },
+        {
+          "comment_id": 64676611,
+          "parent_id": 64676536,
+          "content": "Thì lúc đó cứ chối được gì cứ chối mạnh vào, với mấy người này mình không cần giữ uy tín, ha ha. Sau đó cắt đứt và rút kinh ngiệm sâu sắc vào :)",
+          "author": "thuy.phan",
+          "creation_time": 1791283221,
+          "likes": 6
+        },
+        {
+          "comment_id": 64676589,
+          "parent_id": 64676522,
+          "content": "\"Người bạn\" này còn trẻ và hình như chưa chồng mới mệt đấy bạn (có vẻ đang muốn bước chân vào thay vị trí tác giả đấy). Chứ nếu đã lớn tuổi cùng lắm cắt đứt dần chứ không đến nỗi đáng lo. Tác giả đúng kiểu đưa cáo vào nhà rồi. Giờ đuổi được nó đi e rằng cam go lắm. Giờ chỉ còn cách cố gắng gia tăng tình cảm với chồng con, với nhà chồng để từ từ đẩy nó ra thôi, làm nóng vội cũng hỏng việc chứ không đùa.",
+          "author": "thuy.phan",
+          "creation_time": 1791283017,
+          "likes": 9
+        },
+        {
+          "comment_id": 64677308,
+          "parent_id": 64676522,
+          "content": "Con dâu phản mẹ chồng<br />Người dưng phe mẹ chồng<br />Thì bà mẹ chồng chọn người ngoài là đúng rồi<br />Ai cũng vậy thôi cô con dâu không khôn khéo thì mất hết như trong phim.",
+          "author": "Hoà",
+          "creation_time": 1791288899,
+          "likes": 1
+        },
+        {
+          "comment_id": 64678689,
+          "parent_id": 64676522,
+          "content": "Ấm ức là đem chuyện riêng tư trong nhà đi kể lể với thiên hạ à. Thà tâm sự với mẹ hay anh chị em ruột mình thì còn có lý. Dại dột thì chịu hậu quả thôi. Mâu thuẫn với gia đình chồng , trêu tức em chồng mà đòi họ phải ra mặt bênh. Mình thấy bạn hay đưa ra tiêu chuẩn kép quá.",
+          "author": "nguyentuanlinhqtkd",
+          "creation_time": 1791308199,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678557,
+          "parent_id": 64677624,
+          "content": "Không phải tự nhiên từ mẹ chồng đến chị em chồng đều không ưa tác giả. Chắc cũng tâm cơ diệu kế lắm để bước chân vào gia đình này. :-)",
+          "author": "An Raster",
+          "creation_time": 1791303972,
+          "likes": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:08:03.525494+00:00"
+    },
+    {
+      "article_id": 5129147,
+      "url": "https://vnexpress.net/duong-day-mai-dam-qua-nhom-telegram-tay-ninh-ae-hang-nghin-thanh-vien-5129147.html",
+      "title": "Đường dây mại dâm qua nhóm Telegram 'Tây Ninh ae' hàng nghìn thành viên",
+      "published_at": "2026-10-06T10:01:29+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 5,
+      "comments_complete": true,
+      "interaction_score": 3,
+      "root_comment_count": 5,
+      "loaded_root_count": 5,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 3,
+      "partial_interaction_score": 3,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64676442,
+          "parent_id": 64676442,
+          "content": "Hàng cấm nhưng thích tìm ăn<br />Một lần thỏa mãn ăn năn cả đời ...",
+          "author": "HT (king.pacific74)",
+          "creation_time": 1791281835,
+          "likes": 3,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678425,
+          "parent_id": 64678425,
+          "content": "Từ vài người môi giới mà có thể xây cả nhóm Telegram hàng nghìn thành viên. Có lẽ không chỉ là bắt người cầm đầu, mà còn là làm sao phát hiện và ngăn những “chợ ngầm” trên mạng trước khi chúng phình to đến mức này?",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791301351,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677370,
+          "parent_id": 64677370,
+          "content": "Rồi. Dính vào tội Hiếp dâm người dưới 16 tuổi thì xác định sẽ phải trả một cái giá cực kỳ đắt.",
+          "author": "Song Xà",
+          "creation_time": 1791289584,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676820,
+          "parent_id": 64676820,
+          "content": "Đôi mắt biêt nói .",
+          "author": "CAMERA HD DUNG",
+          "creation_time": 1791284480,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676668,
+          "parent_id": 64676668,
+          "content": "Các đường dây phạm pháp đang lợi dụng nhóm kín trên Telegram để tiếp cận số lượng lớn người, khiến việc kiểm soát và phát hiện khó khăn hơn.",
+          "author": "bactiensi",
+          "creation_time": 1791283465,
+          "likes": 0,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:08:07.108492+00:00"
+    },
+    {
+      "article_id": 5129122,
+      "url": "https://vnexpress.net/bai-toan-xung-dot-loi-ich-khi-cac-ty-phu-tham-gia-bo-nao-quan-doi-my-5129122.html",
+      "title": "Bài toán xung đột lợi ích khi các tỷ phú tham gia 'bộ não' quân đội Mỹ",
+      "published_at": "2026-10-06T10:00:00+00:00",
+      "time_source": "visible GMT+7 date",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:08:11.338382+00:00"
+    },
+    {
+      "article_id": 5129144,
+      "url": "https://vnexpress.net/long-chau-lap-cu-dup-tai-giai-thuong-better-choice-awards-2026-5129144.html",
+      "title": "Long Châu lập 'cú đúp' tại giải thưởng Better Choice Awards 2026",
+      "published_at": "2026-10-06T10:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": null,
+      "comments_complete": false,
+      "interaction_score": null,
+      "error": "RuntimeError: comment collection failed"
+    },
+    {
+      "article_id": 5129131,
+      "url": "https://vnexpress.net/ba-mai-kieu-lien-vao-top-100-phu-nu-quyen-luc-chau-a-lan-ba-5129131.html",
+      "title": "Bà Mai Kiều Liên vào 'Top 100 phụ nữ quyền lực châu Á' lần ba",
+      "published_at": "2026-10-06T10:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 1,
+      "comments_complete": true,
+      "interaction_score": 1,
+      "root_comment_count": 1,
+      "loaded_root_count": 1,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 1,
+      "partial_interaction_score": 1,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64676641,
+          "parent_id": 64676641,
+          "content": "Quá ngưỡng mộ chị",
+          "author": "David Hồ",
+          "creation_time": 1791283367,
+          "likes": 1,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:08:39.653451+00:00"
+    },
+    {
+      "article_id": 5128894,
+      "url": "https://vnexpress.net/truyen-thuoc-sinh-hoc-ngan-lupus-ban-do-bung-phat-5128894.html",
+      "title": "Truyền thuốc sinh học ngăn lupus ban đỏ bùng phát",
+      "published_at": "2026-10-06T10:00:00+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 0,
+      "comments_complete": true,
+      "interaction_score": 0,
+      "root_comment_count": 0,
+      "loaded_root_count": 0,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 0,
+      "partial_interaction_score": 0,
+      "errors": [],
+      "comments": [],
+      "metrics_fetched_at": "2026-10-06T20:08:43.253639+00:00"
+    },
+    {
+      "article_id": 5129074,
+      "url": "https://vnexpress.net/giai-nobel-vat-ly-2026-trao-cho-nghien-cuu-ve-hat-ma-5129074.html",
+      "title": "Giải Nobel Vật lý 2026 trao cho nghiên cứu về 'hạt ma'",
+      "published_at": "2026-10-06T09:55:41+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 14,
+      "comments_complete": false,
+      "interaction_score": null,
+      "root_comment_count": 8,
+      "loaded_root_count": 8,
+      "loaded_reply_count": 7,
+      "total_comment_likes": 173,
+      "partial_interaction_score": 180,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64676466,
+          "parent_id": 64676466,
+          "content": "Nhà khoa học Francis Halzen sinh tại Bỉ, hiện làm việc tại ĐH Wisconsin Madison- Mỹ, đất lành chim đậu, Mỹ vẫn là điểm đến đầy hứa hẹn đối với nhân tài khắp thế giới.",
+          "author": "Nói thẳng",
+          "creation_time": 1791282048,
+          "likes": 69,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64676531,
+          "parent_id": 64676531,
+          "content": "Ông này là người Mỹ gốc Bỉ đã sang Mỹ sinh sống và làm việc từ năm 1972 gắng kết với đại học University of Wisconsin ở Madison đã 53 năm",
+          "author": "kubobinh1969",
+          "creation_time": 1791282556,
+          "likes": 50,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64676301,
+          "parent_id": 64676301,
+          "content": "Về tương lai các giải thưởng lớn của Nobel sẽ là vùng đất cho vật lý vì lĩnh vực cơ học lượng tử còn rất nhiều vùng đất để nghiên cứu khi con người chưa nắm được hết các lý thuyết về lượng tử cho tới lúc này.",
+          "author": "Truong Giang",
+          "creation_time": 1791280840,
+          "likes": 22,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676355,
+          "parent_id": 64676355,
+          "content": "Chúc mừng EU, luôn là một trong các nước đi đầu về những nghiên cứu hữu ích",
+          "author": "Fan mùa hè",
+          "creation_time": 1791281214,
+          "likes": 15,
+          "expected_replies": 4
+        },
+        {
+          "comment_id": 64677046,
+          "parent_id": 64677046,
+          "content": "Tôi quan tâm đến \"Hạt ma\" ứng dụng như thế nào trong đời sống con người.<br />Còn Nobel chỉ để có danh hiệu cho nghiên cứu cao siêu thì cũng không nhất thiết cần có.",
+          "author": "namdaongoc",
+          "creation_time": 1791286386,
+          "likes": 2,
+          "expected_replies": 1
+        },
+        {
+          "comment_id": 64678306,
+          "parent_id": 64678306,
+          "content": "“Hạt ma” nghe cứ như chuyện khoa học viễn tưởng, vậy mà con người lại xây cả một đài quan sát khổng lồ dưới lớp băng Nam Cực để săn chúng. Đúng là có những thứ hôm nay chưa biết dùng vào đâu, nhưng vài chục năm sau lại có thể thay đổi cách chúng ta hiểu về vũ trụ.",
+          "author": "Là Huyền đây!!!!",
+          "creation_time": 1791299682,
+          "likes": 1,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64678319,
+          "parent_id": 64678319,
+          "content": "Hạt ma cho tới nay vẫn bí ẩn. Các nhà khoa học biết sự hiện hữu của nó nhưng để nắm bắt nó lại là chuyện khác.",
+          "author": "maiha9",
+          "creation_time": 1791299814,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677017,
+          "parent_id": 64677017,
+          "content": "thêm một nhà khoa học châu âu thành công ở Mỹ, chúc mừng châu âu cống hiến một giải Nobel cho nước Mỹ",
+          "author": "matthieuchatton",
+          "creation_time": 1791286090,
+          "likes": 0,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64677409,
+          "parent_id": 64676466,
+          "content": "Bỏ châu âu già cỗi lạc hậu sang mỹ là quá đúng",
+          "author": "Lê Tùng",
+          "creation_time": 1791290057,
+          "likes": 1
+        },
+        {
+          "comment_id": 64677646,
+          "parent_id": 64676531,
+          "content": "Cả Ban tổ chức và Báo chí đều đưa ông ấy là Người Bỉ, làm việc ở Mỹ!<br />Sao bạn lại đổi ông ấy thành Người Mỹ gốc Bỉ vậy bạn??? Người Mỹ họ ko mắc bệnh thành tích đến mức đó đâu bạn ^_^",
+          "author": "Hùng Anh",
+          "creation_time": 1791292363,
+          "likes": 3
+        },
+        {
+          "comment_id": 64677071,
+          "parent_id": 64676355,
+          "content": "EU là cái nôi của khoa học thế giới, các nhà khoa học Mỹ cũng phần lớn gốc gác EU, ông Elon Must cũng gốc châu Âu (Anh) chứ đâu, nhưng môi trường nghiên cứu Mỹ giúp họ tới đỉnh thành công.",
+          "author": "sangvoh",
+          "creation_time": 1791286593,
+          "likes": 1
+        },
+        {
+          "comment_id": 64677440,
+          "parent_id": 64676355,
+          "content": "Giải nobel này tính cho mỹ nhé bạn. Cũng giống như mấy giải nobel của người mỹ gốc TQ tính cho mỹ chứ ko tính cho TQ",
+          "author": "Lê Tùng",
+          "creation_time": 1791290307,
+          "likes": 5
+        },
+        {
+          "comment_id": 64677827,
+          "parent_id": 64676355,
+          "content": "Không đúng lắm ông giáo sư này cả cuộc đời ổng làm nghiên cứu và giảng dạy tại Mỹ cái này gọi là nước Mỹ thì được miếng còn nước Bỉ thì được tiếng",
+          "author": "f22pilot007",
+          "creation_time": 1791294658,
+          "likes": 3
+        },
+        {
+          "comment_id": 64678068,
+          "parent_id": 64676355,
+          "content": "Ông đọc lại dùm nha ông! Ông đọc lại và đọc cho tới khi nào ông viết lại được câu này cho nó chính xác là nghiên cứu được thực hiện ở đâu nha ông!",
+          "author": "sru1091975",
+          "creation_time": 1791297226,
+          "likes": 0
+        },
+        {
+          "comment_id": 64678714,
+          "parent_id": 64677046,
+          "content": "Ko ứng dụng gì mà ng ta xây cả cái trạm nghiên cứu ở Nam Cực ????",
+          "author": "vu phuc",
+          "creation_time": 1791308625,
+          "likes": 1
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:08:50.061762+00:00"
+    },
+    {
+      "article_id": 5129102,
+      "url": "https://vnexpress.net/tau-san-bay-hat-nhan-phap-bi-chay-khi-bao-duong-5129102.html",
+      "title": "Tàu sân bay hạt nhân Pháp bị cháy khi bảo dưỡng",
+      "published_at": "2026-10-06T09:30:42+00:00",
+      "time_source": "meta[itemprop=\"datePublished\"]",
+      "comment_count": 4,
+      "comments_complete": true,
+      "interaction_score": 25,
+      "root_comment_count": 4,
+      "loaded_root_count": 4,
+      "loaded_reply_count": 0,
+      "total_comment_likes": 25,
+      "partial_interaction_score": 25,
+      "errors": [],
+      "comments": [
+        {
+          "comment_id": 64676314,
+          "parent_id": 64676314,
+          "content": "Thợ hàn khò bên Pháp tay nghề kém mà lương cao thật",
+          "author": "Bình loạn viên",
+          "creation_time": 1791280919,
+          "likes": 12,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676348,
+          "parent_id": 64676348,
+          "content": "Tàu hạt nhân mà cháy như công trình bình thường sao? Thậm chí còn mất hơn 2 giờ để dập một đám cháy chỉ trong khoang 10 m.",
+          "author": "Mèo đi hia",
+          "creation_time": 1791281156,
+          "likes": 6,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676490,
+          "parent_id": 64676490,
+          "content": "Tàu chạy bằng năng lượng hạt nhân nhưng đám cháy lại xuất phát từ công việc bảo dưỡng thông thường. Không biết khu vực lò phản ứng được cách ly với các khoang khác ra sao?",
+          "author": "Ha an",
+          "creation_time": 1791282265,
+          "likes": 4,
+          "expected_replies": 0
+        },
+        {
+          "comment_id": 64676148,
+          "parent_id": 64676148,
+          "content": "trên thế giới từ xưa đến nay cũng chỉ có vài nước đếm trên đầu ngón tay là nắm giữ khí tài quân sự đứng đầu thế giới thôi.",
+          "author": "Truong Giang",
+          "creation_time": 1791279949,
+          "likes": 3,
+          "expected_replies": 0
+        }
+      ],
+      "metrics_fetched_at": "2026-10-06T20:08:54.722734+00:00"
+    }
+  ],
+  "failures": [
+    {
+      "article_id": 5129144,
+      "stage": "comments",
+      "error": "RuntimeError"
+    }
+  ],
+  "time_unknown": [],
+  "processed_candidates": 65,
+  "stop_reason": "listing_processed",
+  "candidate_count": 65,
+  "listing_urls": [
+    "https://vnexpress.net/tin-tuc-24h",
+    "https://vnexpress.net/tin-tuc-24h-p2",
+    "https://vnexpress.net/tin-tuc-24h-p3"
+  ],
+  "listing_pagination_exhausted": true,
+  "ranking_by_comment_count": [
+    5129022,
+    5129008,
+    5129156,
+    5129059,
+    5129213,
+    5129146,
+    5129154,
+    5129074,
+    5129061,
+    5129157,
+    5129057,
+    5129168,
+    5129200,
+    5128795,
+    5129147,
+    5129229,
+    5129102,
+    5129186,
+    5129202,
+    5129219,
+    5128537,
+    5129115,
+    5129162,
+    5129182,
+    5129187,
+    5129191,
+    5129207,
+    5129239,
+    5128821,
+    5128899,
+    5128999,
+    5129037,
+    5129194,
+    5129198,
+    5129205,
+    5129131,
+    5129176,
+    5129220,
+    5128562,
+    5128894,
+    5128985,
+    5129005,
+    5129045,
+    5129055,
+    5129069,
+    5129089,
+    5129107,
+    5129122,
+    5129127,
+    5129137,
+    5129151,
+    5129159,
+    5129167,
+    5129174,
+    5129185,
+    5129192,
+    5129210,
+    5129215,
+    5129217,
+    5129222,
+    5129224,
+    5129228,
+    5129231,
+    5129232
+  ],
+  "ranking_by_interaction": [
+    5129057,
+    5128821,
+    5128795,
+    5129102,
+    5129157,
+    5129200,
+    5129186,
+    5129194,
+    5129168,
+    5129115,
+    5129176,
+    5129229,
+    5128537,
+    5129207,
+    5129037,
+    5129061,
+    5129182,
+    5129191,
+    5129147,
+    5129162,
+    5128899,
+    5129131,
+    5129198,
+    5129220,
+    5128562,
+    5128894,
+    5128985,
+    5128999,
+    5129005,
+    5129045,
+    5129055,
+    5129069,
+    5129089,
+    5129107,
+    5129122,
+    5129127,
+    5129137,
+    5129151,
+    5129159,
+    5129167,
+    5129174,
+    5129185,
+    5129192,
+    5129205,
+    5129210,
+    5129215,
+    5129217,
+    5129222,
+    5129224,
+    5129228,
+    5129231,
+    5129232,
+    5129239
+  ],
+  "ranking_is_partial": true
+}

@@ -7,7 +7,10 @@ from unittest.mock import patch
 from search_engine import ensure_index, search_documents
 
 
+# Đây là kiểm thử tự động, không phải code chạy giao diện.
+# Mỗi test dùng dữ liệu nhỏ trong thư mục tạm, không sửa dataset thật.
 class SearchEngineTests(unittest.TestCase):
+    # unittest gọi setUp trước MỖI test để tạo môi trường độc lập.
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
@@ -40,9 +43,11 @@ class SearchEngineTests(unittest.TestCase):
         self.assertEqual((result['total'], result['pages'], result['page']), (2, 2, 2))
         self.assertEqual(len(result['documents']), 1)
 
+    # Chứng minh mở lại không đọc JSON và không thay đổi nội dung file index.
     def test_reopening_does_not_read_dataset_or_write_index(self):
         before = {p.name: p.read_bytes() for p in self.index_dir.iterdir()}
         self.data.unlink()  # Reopening must even work without the original JSON.
+        # patch thay hàm đọc dữ liệu bằng hàm ném lỗi: nếu bị gọi lại, test thất bại.
         with patch('search_engine.load_documents', side_effect=AssertionError('Re-indexed')):
             reopened = ensure_index(self.index_dir, [(self.data, 'Báo Mới')])
             self.assertEqual(reopened.doc_count(), 2)

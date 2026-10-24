@@ -90,20 +90,4 @@ should not be rewritten.
 References: [Whoosh quick start](https://whoosh.readthedocs.io/en/latest/quickstart.html)
 and [Streamlit caching](https://docs.streamlit.io/develop/concepts/architecture/caching).
 
-## Push to GitHub
 
-Create an empty GitHub repository (without a generated README, license, or
-gitignore). From this project's directory, replace `YOUR_USERNAME` and
-`YOUR_REPOSITORY` below with your repository details:
-
-```bash
-git add .
-git commit -m "Add Whoosh search engine with Streamlit interface"
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-git push -u origin main
-```
-
-The dataset snapshots are intentionally included. Virtual environments, Python
-caches, generated Whoosh indexes, and local secrets are excluded by `.gitignore`.
-Article text belongs to its original publishers; the snapshots are used here
-for the information retrieval coursework.

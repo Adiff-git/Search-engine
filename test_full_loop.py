@@ -60,13 +60,13 @@ class FullLoopTests(unittest.TestCase):
         payload = {'data': {'items': [{'contentId': 123, 'title': 'Tin mới',
             'description': 'Đoạn chữ đi cùng ảnh trên card.', 'date': 1_700_000_000,
             'publisher': {'name': 'Báo thử'},
-            'thumb': 'https://photo-baomoi.bmcdn.me/example.jpg.avif',
+            'thumb': 'https://photo-baomoi.bmcdn.me/2026_10_28_1_123/example.jpg.avif',
             'url': url}]}}
         article = article_from_baomoi_json(payload, url)
         self.assertEqual(article['publisher'], 'Báo thử')
         self.assertEqual(article['description'], 'Đoạn chữ đi cùng ảnh trên card.')
         self.assertEqual(article['images'], [{
-            'image_url': 'https://photo-baomoi.bmcdn.me/example.jpg.avif',
+            'image_url': 'https://photo-baomoi.bmcdn.me/2026_10_28_1_123/example.jpg.avif',
             'description': 'Đoạn chữ đi cùng ảnh trên card.'}])
 
     def test_image_query_only_searches_following_text_and_retry_is_idempotent(self):

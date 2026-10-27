@@ -13,3 +13,9 @@ __pycache__/
 Thumbs.db
 .idea/
 .vscode/
+
+# Full Loop: runtime state, queue and incremental index
+.full_loop/
+
+# Tài liệu học cá nhân, không đưa vào bài nộp/repository
+report.md
